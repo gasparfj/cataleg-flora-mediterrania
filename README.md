@@ -23,7 +23,11 @@ Aplicació React + TypeScript pensada per llegir el catàleg JSON existent.
 cataleg-flora/
 ├── public/
 │   └── data/
-│       └── plantes.json
+│       └── plantes
+|         └── habitat.json
+|       └── imatges
+|         └── habitat
+|           └── imatge.jpg/png/jpeg
 └── src/
     ├── App.tsx
     ├── App.css
@@ -58,7 +62,7 @@ Cada planta pot tenir una llista `imatges`. Per exemple:
 ]
 ```
 
-Desa els fitxers d'imatge, per exemple, a `public/imatges/anagyris-foetida/` i posa la ruta pública a `url`. Si `url` és `null`, la web manté un requadre reservat.
+Desa els fitxers d'imatge, per exemple, a `public/imatges/plantes/ullastrar/anagyris-foetida/` i posa la ruta pública a `url`. Si `url` és `null`, la web manté un requadre reservat.
 
 ## Com funciona
 
