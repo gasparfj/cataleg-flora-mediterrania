@@ -1,0 +1,2264 @@
+{
+  "versio_esquema": "1.1.0",
+  "idioma": "ca",
+  "nom_catalog": "Catàleg de flora mediterrània de les Illes Balears",
+  "habitat": "Pinar",
+  "font_principal": "https://xarxaforestal.org/wp-content/uploads/2023/06/Cataleg-Menut_version-web.pdf",
+  "nota": "Espècies de l'hàbitat Pinar transcrites de les tres taules facilitades. Els camps sense informació explícita es mantenen nuls o buits.",
+  "plantes": [
+    {
+      "id": "ampelodesmos-mauritanicus",
+      "nom_comu": "Càrritx",
+      "nom_cientific": "Ampelodesmos mauritanicus",
+      "sinonims": [],
+      "grup": "Pinar",
+      "illes": [
+        "Mallorca",
+        "Menorca"
+      ],
+      "endemisme": false,
+      "mida_adulta_m": {
+        "alcada": [
+          0.8,
+          2
+        ],
+        "amplada": [
+          0.8,
+          1
+        ]
+      },
+      "floracio": [
+        "primavera"
+      ],
+      "fructificacio": [
+        "estiu"
+      ],
+      "tipus_fruit": "sec",
+      "necessitats_hidriques": "baixes",
+      "insolacio": "directe",
+      "tolerancia_salinitat": null,
+      "pol_linitzadors": {
+        "nectar": null,
+        "pol·len": null,
+        "productora_melats": false
+      },
+      "atreu_papallones": false,
+      "atreu_ocells": false,
+      "resistent_herbivors": true,
+      "apte_bardissa": false,
+      "espinos": false,
+      "aromatic": false,
+      "parts_comestibles": [],
+      "toxicitat": false,
+      "infusio_condiment": false,
+      "descripcio": null,
+      "habitat": "Pinar",
+      "usos_jardineria": [],
+      "imatges": [
+        {
+          "id": "ampelodesmos-mauritanicus-planta_sencera",
+          "vista": "planta_sencera",
+          "nom_vista": "Planta sencera",
+          "url": null,
+          "estil": "natura",
+          "principal": true,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        },
+        {
+          "id": "ampelodesmos-mauritanicus-flors",
+          "vista": "flors",
+          "nom_vista": "Flors",
+          "url": null,
+          "estil": "botanic_fons_neutre",
+          "principal": false,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        },
+        {
+          "id": "ampelodesmos-mauritanicus-fulles",
+          "vista": "fulles",
+          "nom_vista": "Fulles",
+          "url": null,
+          "estil": "botanic_fons_neutre",
+          "principal": false,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        }
+      ],
+      "estat_fitxa": "completada_des_de_taula",
+      "font": {
+        "document": "Catàleg de plantes autòctones del viver forestal de les Illes Balears",
+        "pagina_impresa": null,
+        "url": "https://xarxaforestal.org/wp-content/uploads/2023/06/Cataleg-Menut_version-web.pdf"
+      },
+      "port": "mata_herbacia_o_llenyosa",
+      "color_floracio": "crema"
+    },
+    {
+      "id": "anthyllis-cytisoides",
+      "nom_comu": "Albada",
+      "nom_cientific": "Anthyllis cytisoides",
+      "sinonims": [],
+      "grup": "Pinar",
+      "illes": [
+        "Mallorca",
+        "Eivissa",
+        "Formentera",
+        "Dragonera"
+      ],
+      "endemisme": false,
+      "mida_adulta_m": {
+        "alcada": [
+          0.8,
+          1.2
+        ],
+        "amplada": [
+          0.8,
+          1.2
+        ]
+      },
+      "floracio": [
+        "primavera",
+        "estiu"
+      ],
+      "fructificacio": [
+        "tardor"
+      ],
+      "tipus_fruit": "sec",
+      "necessitats_hidriques": "baixes",
+      "insolacio": "directe",
+      "tolerancia_salinitat": null,
+      "pol_linitzadors": {
+        "nectar": "elevat",
+        "pol·len": "baix",
+        "productora_melats": false
+      },
+      "atreu_papallones": true,
+      "atreu_ocells": false,
+      "resistent_herbivors": false,
+      "apte_bardissa": false,
+      "espinos": false,
+      "aromatic": false,
+      "parts_comestibles": [],
+      "toxicitat": false,
+      "infusio_condiment": false,
+      "descripcio": null,
+      "habitat": "Pinar",
+      "usos_jardineria": [],
+      "imatges": [
+        {
+          "id": "anthyllis-cytisoides-planta_sencera",
+          "vista": "planta_sencera",
+          "nom_vista": "Planta sencera",
+          "url": null,
+          "estil": "natura",
+          "principal": true,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        },
+        {
+          "id": "anthyllis-cytisoides-flors",
+          "vista": "flors",
+          "nom_vista": "Flors",
+          "url": null,
+          "estil": "botanic_fons_neutre",
+          "principal": false,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        },
+        {
+          "id": "anthyllis-cytisoides-fulles",
+          "vista": "fulles",
+          "nom_vista": "Fulles",
+          "url": null,
+          "estil": "botanic_fons_neutre",
+          "principal": false,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        }
+      ],
+      "estat_fitxa": "completada_des_de_taula",
+      "font": {
+        "document": "Catàleg de plantes autòctones del viver forestal de les Illes Balears",
+        "pagina_impresa": null,
+        "url": "https://xarxaforestal.org/wp-content/uploads/2023/06/Cataleg-Menut_version-web.pdf"
+      },
+      "port": "mata_herbacia_o_llenyosa",
+      "color_floracio": "groc"
+    },
+    {
+      "id": "cistus-albidus",
+      "nom_comu": "Estepa blanca",
+      "nom_cientific": "Cistus albidus",
+      "sinonims": [],
+      "grup": "Pinar",
+      "illes": [
+        "Mallorca",
+        "Menorca",
+        "Eivissa",
+        "Formentera",
+        "Cabrera"
+      ],
+      "endemisme": false,
+      "mida_adulta_m": {
+        "alcada": [
+          0.6,
+          1
+        ],
+        "amplada": [
+          0.6,
+          1
+        ]
+      },
+      "floracio": [
+        "primavera"
+      ],
+      "fructificacio": [
+        "estiu"
+      ],
+      "tipus_fruit": "sec",
+      "necessitats_hidriques": "baixes",
+      "insolacio": "directe",
+      "tolerancia_salinitat": null,
+      "pol_linitzadors": {
+        "nectar": null,
+        "pol·len": "elevat",
+        "productora_melats": false
+      },
+      "atreu_papallones": false,
+      "atreu_ocells": false,
+      "resistent_herbivors": true,
+      "apte_bardissa": false,
+      "espinos": false,
+      "aromatic": false,
+      "parts_comestibles": [],
+      "toxicitat": false,
+      "infusio_condiment": false,
+      "descripcio": null,
+      "habitat": "Pinar",
+      "usos_jardineria": [],
+      "imatges": [
+        {
+          "id": "cistus-albidus-planta_sencera",
+          "vista": "planta_sencera",
+          "nom_vista": "Planta sencera",
+          "url": null,
+          "estil": "natura",
+          "principal": true,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        },
+        {
+          "id": "cistus-albidus-flors",
+          "vista": "flors",
+          "nom_vista": "Flors",
+          "url": null,
+          "estil": "botanic_fons_neutre",
+          "principal": false,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        },
+        {
+          "id": "cistus-albidus-fulles",
+          "vista": "fulles",
+          "nom_vista": "Fulles",
+          "url": null,
+          "estil": "botanic_fons_neutre",
+          "principal": false,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        }
+      ],
+      "estat_fitxa": "completada_des_de_taula",
+      "font": {
+        "document": "Catàleg de plantes autòctones del viver forestal de les Illes Balears",
+        "pagina_impresa": null,
+        "url": "https://xarxaforestal.org/wp-content/uploads/2023/06/Cataleg-Menut_version-web.pdf"
+      },
+      "port": "arbust",
+      "color_floracio": "rosa"
+    },
+    {
+      "id": "cistus-creticus",
+      "nom_comu": "Estèpera blava",
+      "nom_cientific": "Cistus creticus",
+      "sinonims": [],
+      "grup": "Pinar",
+      "illes": [
+        "Menorca"
+      ],
+      "endemisme": false,
+      "mida_adulta_m": {
+        "alcada": [
+          0.4,
+          0.8
+        ],
+        "amplada": [
+          0.6,
+          0.8
+        ]
+      },
+      "floracio": [
+        "estiu"
+      ],
+      "fructificacio": [
+        "estiu"
+      ],
+      "tipus_fruit": "sec",
+      "necessitats_hidriques": "baixes",
+      "insolacio": "directe",
+      "tolerancia_salinitat": null,
+      "pol_linitzadors": {
+        "nectar": null,
+        "pol·len": "elevat",
+        "productora_melats": false
+      },
+      "atreu_papallones": false,
+      "atreu_ocells": false,
+      "resistent_herbivors": true,
+      "apte_bardissa": false,
+      "espinos": false,
+      "aromatic": false,
+      "parts_comestibles": [],
+      "toxicitat": false,
+      "infusio_condiment": false,
+      "descripcio": null,
+      "habitat": "Pinar",
+      "usos_jardineria": [],
+      "imatges": [
+        {
+          "id": "cistus-creticus-planta_sencera",
+          "vista": "planta_sencera",
+          "nom_vista": "Planta sencera",
+          "url": null,
+          "estil": "natura",
+          "principal": true,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        },
+        {
+          "id": "cistus-creticus-flors",
+          "vista": "flors",
+          "nom_vista": "Flors",
+          "url": null,
+          "estil": "botanic_fons_neutre",
+          "principal": false,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        },
+        {
+          "id": "cistus-creticus-fulles",
+          "vista": "fulles",
+          "nom_vista": "Fulles",
+          "url": null,
+          "estil": "botanic_fons_neutre",
+          "principal": false,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        }
+      ],
+      "estat_fitxa": "completada_des_de_taula",
+      "font": {
+        "document": "Catàleg de plantes autòctones del viver forestal de les Illes Balears",
+        "pagina_impresa": null,
+        "url": "https://xarxaforestal.org/wp-content/uploads/2023/06/Cataleg-Menut_version-web.pdf"
+      },
+      "port": "arbust",
+      "color_floracio": "rosa"
+    },
+    {
+      "id": "cistus-salviifolius",
+      "nom_comu": "Estepa negra",
+      "nom_cientific": "Cistus salviifolius",
+      "sinonims": [],
+      "grup": "Pinar",
+      "illes": [
+        "Mallorca",
+        "Menorca",
+        "Eivissa",
+        "Formentera"
+      ],
+      "endemisme": false,
+      "mida_adulta_m": {
+        "alcada": [
+          0.4,
+          1
+        ],
+        "amplada": [
+          0.6,
+          1
+        ]
+      },
+      "floracio": [
+        "primavera"
+      ],
+      "fructificacio": [
+        "estiu"
+      ],
+      "tipus_fruit": "sec",
+      "necessitats_hidriques": "baixes",
+      "insolacio": "directe",
+      "tolerancia_salinitat": null,
+      "pol_linitzadors": {
+        "nectar": null,
+        "pol·len": "elevat",
+        "productora_melats": false
+      },
+      "atreu_papallones": false,
+      "atreu_ocells": false,
+      "resistent_herbivors": true,
+      "apte_bardissa": false,
+      "espinos": false,
+      "aromatic": false,
+      "parts_comestibles": [],
+      "toxicitat": false,
+      "infusio_condiment": false,
+      "descripcio": null,
+      "habitat": "Pinar",
+      "usos_jardineria": [],
+      "imatges": [
+        {
+          "id": "cistus-salviifolius-planta_sencera",
+          "vista": "planta_sencera",
+          "nom_vista": "Planta sencera",
+          "url": null,
+          "estil": "natura",
+          "principal": true,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        },
+        {
+          "id": "cistus-salviifolius-flors",
+          "vista": "flors",
+          "nom_vista": "Flors",
+          "url": null,
+          "estil": "botanic_fons_neutre",
+          "principal": false,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        },
+        {
+          "id": "cistus-salviifolius-fulles",
+          "vista": "fulles",
+          "nom_vista": "Fulles",
+          "url": null,
+          "estil": "botanic_fons_neutre",
+          "principal": false,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        }
+      ],
+      "estat_fitxa": "completada_des_de_taula",
+      "font": {
+        "document": "Catàleg de plantes autòctones del viver forestal de les Illes Balears",
+        "pagina_impresa": null,
+        "url": "https://xarxaforestal.org/wp-content/uploads/2023/06/Cataleg-Menut_version-web.pdf"
+      },
+      "port": "arbust",
+      "color_floracio": "blanc"
+    },
+    {
+      "id": "coronilla-juncea",
+      "nom_comu": "Coroneta",
+      "nom_cientific": "Coronilla juncea",
+      "sinonims": [],
+      "grup": "Pinar",
+      "illes": [
+        "Mallorca",
+        "Menorca"
+      ],
+      "endemisme": false,
+      "mida_adulta_m": {
+        "alcada": [
+          0.4,
+          0.6
+        ],
+        "amplada": [
+          0.4,
+          0.6
+        ]
+      },
+      "floracio": [
+        "primavera"
+      ],
+      "fructificacio": [
+        "estiu"
+      ],
+      "tipus_fruit": "sec",
+      "necessitats_hidriques": "baixes",
+      "insolacio": "directe",
+      "tolerancia_salinitat": null,
+      "pol_linitzadors": {
+        "nectar": "baix",
+        "pol·len": null,
+        "productora_melats": false
+      },
+      "atreu_papallones": false,
+      "atreu_ocells": false,
+      "resistent_herbivors": false,
+      "apte_bardissa": false,
+      "espinos": false,
+      "aromatic": false,
+      "parts_comestibles": [],
+      "toxicitat": false,
+      "infusio_condiment": false,
+      "descripcio": null,
+      "habitat": "Pinar",
+      "usos_jardineria": [],
+      "imatges": [
+        {
+          "id": "coronilla-juncea-planta_sencera",
+          "vista": "planta_sencera",
+          "nom_vista": "Planta sencera",
+          "url": null,
+          "estil": "natura",
+          "principal": true,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        },
+        {
+          "id": "coronilla-juncea-flors",
+          "vista": "flors",
+          "nom_vista": "Flors",
+          "url": null,
+          "estil": "botanic_fons_neutre",
+          "principal": false,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        },
+        {
+          "id": "coronilla-juncea-fulles",
+          "vista": "fulles",
+          "nom_vista": "Fulles",
+          "url": null,
+          "estil": "botanic_fons_neutre",
+          "principal": false,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        }
+      ],
+      "estat_fitxa": "completada_des_de_taula",
+      "font": {
+        "document": "Catàleg de plantes autòctones del viver forestal de les Illes Balears",
+        "pagina_impresa": null,
+        "url": "https://xarxaforestal.org/wp-content/uploads/2023/06/Cataleg-Menut_version-web.pdf"
+      },
+      "port": "mata_herbacia_o_llenyosa",
+      "color_floracio": "groc"
+    },
+    {
+      "id": "erica-multiflora",
+      "nom_comu": "Xiprell",
+      "nom_cientific": "Erica multiflora",
+      "sinonims": [],
+      "grup": "Pinar",
+      "illes": [
+        "Mallorca",
+        "Menorca",
+        "Eivissa",
+        "Formentera",
+        "Cabrera"
+      ],
+      "endemisme": false,
+      "mida_adulta_m": {
+        "alcada": [
+          0.5,
+          1.5
+        ],
+        "amplada": [
+          0.5,
+          1
+        ]
+      },
+      "floracio": [
+        "tardor",
+        "hivern"
+      ],
+      "fructificacio": [
+        "hivern"
+      ],
+      "tipus_fruit": "sec",
+      "necessitats_hidriques": "baixes",
+      "insolacio": "directe",
+      "tolerancia_salinitat": null,
+      "pol_linitzadors": {
+        "nectar": "mitja",
+        "pol·len": "baix",
+        "productora_melats": false
+      },
+      "atreu_papallones": false,
+      "atreu_ocells": false,
+      "resistent_herbivors": true,
+      "apte_bardissa": false,
+      "espinos": false,
+      "aromatic": false,
+      "parts_comestibles": [],
+      "toxicitat": false,
+      "infusio_condiment": false,
+      "descripcio": null,
+      "habitat": "Pinar",
+      "usos_jardineria": [],
+      "imatges": [
+        {
+          "id": "erica-multiflora-planta_sencera",
+          "vista": "planta_sencera",
+          "nom_vista": "Planta sencera",
+          "url": null,
+          "estil": "natura",
+          "principal": true,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        },
+        {
+          "id": "erica-multiflora-flors",
+          "vista": "flors",
+          "nom_vista": "Flors",
+          "url": null,
+          "estil": "botanic_fons_neutre",
+          "principal": false,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        },
+        {
+          "id": "erica-multiflora-fulles",
+          "vista": "fulles",
+          "nom_vista": "Fulles",
+          "url": null,
+          "estil": "botanic_fons_neutre",
+          "principal": false,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        }
+      ],
+      "estat_fitxa": "completada_des_de_taula",
+      "font": {
+        "document": "Catàleg de plantes autòctones del viver forestal de les Illes Balears",
+        "pagina_impresa": null,
+        "url": "https://xarxaforestal.org/wp-content/uploads/2023/06/Cataleg-Menut_version-web.pdf"
+      },
+      "port": "arbust",
+      "color_floracio": "rosa"
+    },
+    {
+      "id": "fumana-laevis",
+      "nom_comu": "",
+      "nom_cientific": "Fumana laevis",
+      "sinonims": [],
+      "grup": "Pinar",
+      "illes": [
+        "Mallorca",
+        "Menorca",
+        "Eivissa",
+        "Formentera"
+      ],
+      "endemisme": false,
+      "mida_adulta_m": {
+        "alcada": [
+          0.1,
+          0.3
+        ],
+        "amplada": [
+          0.2,
+          0.3
+        ]
+      },
+      "floracio": [
+        "primavera"
+      ],
+      "fructificacio": [
+        "estiu"
+      ],
+      "tipus_fruit": "sec",
+      "necessitats_hidriques": "baixes",
+      "insolacio": "directe",
+      "tolerancia_salinitat": null,
+      "pol_linitzadors": {
+        "nectar": null,
+        "pol·len": "elevat",
+        "productora_melats": false
+      },
+      "atreu_papallones": false,
+      "atreu_ocells": false,
+      "resistent_herbivors": false,
+      "apte_bardissa": false,
+      "espinos": false,
+      "aromatic": false,
+      "parts_comestibles": [],
+      "toxicitat": false,
+      "infusio_condiment": false,
+      "descripcio": null,
+      "habitat": "Pinar",
+      "usos_jardineria": [],
+      "imatges": [
+        {
+          "id": "fumana-laevis-planta_sencera",
+          "vista": "planta_sencera",
+          "nom_vista": "Planta sencera",
+          "url": null,
+          "estil": "natura",
+          "principal": true,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        },
+        {
+          "id": "fumana-laevis-flors",
+          "vista": "flors",
+          "nom_vista": "Flors",
+          "url": null,
+          "estil": "botanic_fons_neutre",
+          "principal": false,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        },
+        {
+          "id": "fumana-laevis-fulles",
+          "vista": "fulles",
+          "nom_vista": "Fulles",
+          "url": null,
+          "estil": "botanic_fons_neutre",
+          "principal": false,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        }
+      ],
+      "estat_fitxa": "completada_des_de_taula",
+      "font": {
+        "document": "Catàleg de plantes autòctones del viver forestal de les Illes Balears",
+        "pagina_impresa": null,
+        "url": "https://xarxaforestal.org/wp-content/uploads/2023/06/Cataleg-Menut_version-web.pdf"
+      },
+      "port": "mata_herbacia_o_llenyosa",
+      "color_floracio": "groc"
+    },
+    {
+      "id": "globularia-alypum",
+      "nom_comu": "Cossiada",
+      "nom_cientific": "Globularia alypum",
+      "sinonims": [],
+      "grup": "Pinar",
+      "illes": [
+        "Mallorca",
+        "Menorca",
+        "Eivissa",
+        "Cabrera"
+      ],
+      "endemisme": false,
+      "mida_adulta_m": {
+        "alcada": [
+          0.3,
+          0.5
+        ],
+        "amplada": [
+          0.3,
+          0.5
+        ]
+      },
+      "floracio": [
+        "primavera"
+      ],
+      "fructificacio": [
+        "primavera"
+      ],
+      "tipus_fruit": "sec",
+      "necessitats_hidriques": "baixes",
+      "insolacio": "directe",
+      "tolerancia_salinitat": null,
+      "pol_linitzadors": {
+        "nectar": "baix",
+        "pol·len": null,
+        "productora_melats": false
+      },
+      "atreu_papallones": false,
+      "atreu_ocells": false,
+      "resistent_herbivors": true,
+      "apte_bardissa": false,
+      "espinos": false,
+      "aromatic": false,
+      "parts_comestibles": [],
+      "toxicitat": false,
+      "infusio_condiment": false,
+      "descripcio": null,
+      "habitat": "Pinar",
+      "usos_jardineria": [],
+      "imatges": [
+        {
+          "id": "globularia-alypum-planta_sencera",
+          "vista": "planta_sencera",
+          "nom_vista": "Planta sencera",
+          "url": null,
+          "estil": "natura",
+          "principal": true,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        },
+        {
+          "id": "globularia-alypum-flors",
+          "vista": "flors",
+          "nom_vista": "Flors",
+          "url": null,
+          "estil": "botanic_fons_neutre",
+          "principal": false,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        },
+        {
+          "id": "globularia-alypum-fulles",
+          "vista": "fulles",
+          "nom_vista": "Fulles",
+          "url": null,
+          "estil": "botanic_fons_neutre",
+          "principal": false,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        }
+      ],
+      "estat_fitxa": "completada_des_de_taula",
+      "font": {
+        "document": "Catàleg de plantes autòctones del viver forestal de les Illes Balears",
+        "pagina_impresa": null,
+        "url": "https://xarxaforestal.org/wp-content/uploads/2023/06/Cataleg-Menut_version-web.pdf"
+      },
+      "port": "mata_herbacia_o_llenyosa",
+      "color_floracio": "lila"
+    },
+    {
+      "id": "halimium-halimifolium",
+      "nom_comu": "Estepa d’arenal",
+      "nom_cientific": "Halimium halimifolium",
+      "sinonims": [],
+      "grup": "Pinar",
+      "illes": [
+        "Mallorca"
+      ],
+      "endemisme": false,
+      "mida_adulta_m": {
+        "alcada": [
+          1,
+          1.5
+        ],
+        "amplada": [
+          1,
+          1.5
+        ]
+      },
+      "floracio": [
+        "primavera"
+      ],
+      "fructificacio": [
+        "estiu"
+      ],
+      "tipus_fruit": "sec",
+      "necessitats_hidriques": "baixes",
+      "insolacio": "directe",
+      "tolerancia_salinitat": null,
+      "pol_linitzadors": {
+        "nectar": null,
+        "pol·len": "elevat",
+        "productora_melats": false
+      },
+      "atreu_papallones": false,
+      "atreu_ocells": false,
+      "resistent_herbivors": false,
+      "apte_bardissa": false,
+      "espinos": false,
+      "aromatic": false,
+      "parts_comestibles": [],
+      "toxicitat": false,
+      "infusio_condiment": false,
+      "descripcio": null,
+      "habitat": "Pinar",
+      "usos_jardineria": [],
+      "imatges": [
+        {
+          "id": "halimium-halimifolium-planta_sencera",
+          "vista": "planta_sencera",
+          "nom_vista": "Planta sencera",
+          "url": null,
+          "estil": "natura",
+          "principal": true,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        },
+        {
+          "id": "halimium-halimifolium-flors",
+          "vista": "flors",
+          "nom_vista": "Flors",
+          "url": null,
+          "estil": "botanic_fons_neutre",
+          "principal": false,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        },
+        {
+          "id": "halimium-halimifolium-fulles",
+          "vista": "fulles",
+          "nom_vista": "Fulles",
+          "url": null,
+          "estil": "botanic_fons_neutre",
+          "principal": false,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        }
+      ],
+      "estat_fitxa": "completada_des_de_taula",
+      "font": {
+        "document": "Catàleg de plantes autòctones del viver forestal de les Illes Balears",
+        "pagina_impresa": null,
+        "url": "https://xarxaforestal.org/wp-content/uploads/2023/06/Cataleg-Menut_version-web.pdf"
+      },
+      "port": "mata_herbacia_o_llenyosa",
+      "color_floracio": "groc"
+    },
+    {
+      "id": "juniperus-oxycedrus-subsp-oxycedrus",
+      "nom_comu": "Ginebró",
+      "nom_cientific": "Juniperus oxycedrus subsp. oxycedrus",
+      "sinonims": [],
+      "grup": "Pinar",
+      "illes": [
+        "Mallorca",
+        "Menorca",
+        "Eivissa",
+        "Formentera",
+        "Cabrera"
+      ],
+      "endemisme": false,
+      "mida_adulta_m": {
+        "alcada": [
+          2,
+          4
+        ],
+        "amplada": [
+          2,
+          3
+        ]
+      },
+      "floracio": [
+        "primavera"
+      ],
+      "fructificacio": [
+        "estiu",
+        "tardor"
+      ],
+      "tipus_fruit": "carnós",
+      "necessitats_hidriques": "baixes",
+      "insolacio": "directe",
+      "tolerancia_salinitat": null,
+      "pol_linitzadors": {
+        "nectar": null,
+        "pol·len": null,
+        "productora_melats": false
+      },
+      "atreu_papallones": false,
+      "atreu_ocells": true,
+      "resistent_herbivors": true,
+      "apte_bardissa": false,
+      "espinos": false,
+      "aromatic": true,
+      "parts_comestibles": [],
+      "toxicitat": false,
+      "infusio_condiment": false,
+      "descripcio": null,
+      "habitat": "Pinar",
+      "usos_jardineria": [],
+      "imatges": [
+        {
+          "id": "juniperus-oxycedrus-subsp-oxycedrus-planta_sencera",
+          "vista": "planta_sencera",
+          "nom_vista": "Planta sencera",
+          "url": null,
+          "estil": "natura",
+          "principal": true,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        },
+        {
+          "id": "juniperus-oxycedrus-subsp-oxycedrus-flors",
+          "vista": "flors",
+          "nom_vista": "Flors",
+          "url": null,
+          "estil": "botanic_fons_neutre",
+          "principal": false,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        },
+        {
+          "id": "juniperus-oxycedrus-subsp-oxycedrus-fulles",
+          "vista": "fulles",
+          "nom_vista": "Fulles",
+          "url": null,
+          "estil": "botanic_fons_neutre",
+          "principal": false,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        }
+      ],
+      "estat_fitxa": "completada_des_de_taula",
+      "font": {
+        "document": "Catàleg de plantes autòctones del viver forestal de les Illes Balears",
+        "pagina_impresa": null,
+        "url": "https://xarxaforestal.org/wp-content/uploads/2023/06/Cataleg-Menut_version-web.pdf"
+      },
+      "port": "arbre",
+      "color_floracio": "ocre"
+    },
+    {
+      "id": "lavandula-dentata",
+      "nom_comu": "Gal·landa",
+      "nom_cientific": "Lavandula dentata",
+      "sinonims": [],
+      "grup": "Pinar",
+      "illes": [
+        "Mallorca",
+        "Eivissa"
+      ],
+      "endemisme": false,
+      "mida_adulta_m": {
+        "alcada": [
+          0.6,
+          0.8
+        ],
+        "amplada": [
+          0.6,
+          0.8
+        ]
+      },
+      "floracio": [
+        "primavera",
+        "estiu",
+        "tardor"
+      ],
+      "fructificacio": [
+        "estiu"
+      ],
+      "tipus_fruit": "sec",
+      "necessitats_hidriques": "baixes",
+      "insolacio": "directe",
+      "tolerancia_salinitat": null,
+      "pol_linitzadors": {
+        "nectar": "elevat",
+        "pol·len": "baix",
+        "productora_melats": false
+      },
+      "atreu_papallones": true,
+      "atreu_ocells": false,
+      "resistent_herbivors": true,
+      "apte_bardissa": false,
+      "espinos": false,
+      "aromatic": true,
+      "parts_comestibles": [],
+      "toxicitat": false,
+      "infusio_condiment": true,
+      "descripcio": null,
+      "habitat": "Pinar",
+      "usos_jardineria": [],
+      "imatges": [
+        {
+          "id": "lavandula-dentata-planta_sencera",
+          "vista": "planta_sencera",
+          "nom_vista": "Planta sencera",
+          "url": null,
+          "estil": "natura",
+          "principal": true,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        },
+        {
+          "id": "lavandula-dentata-flors",
+          "vista": "flors",
+          "nom_vista": "Flors",
+          "url": null,
+          "estil": "botanic_fons_neutre",
+          "principal": false,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        },
+        {
+          "id": "lavandula-dentata-fulles",
+          "vista": "fulles",
+          "nom_vista": "Fulles",
+          "url": null,
+          "estil": "botanic_fons_neutre",
+          "principal": false,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        }
+      ],
+      "estat_fitxa": "completada_des_de_taula",
+      "font": {
+        "document": "Catàleg de plantes autòctones del viver forestal de les Illes Balears",
+        "pagina_impresa": null,
+        "url": "https://xarxaforestal.org/wp-content/uploads/2023/06/Cataleg-Menut_version-web.pdf"
+      },
+      "port": "mata_herbacia_o_llenyosa",
+      "color_floracio": "lila"
+    },
+    {
+      "id": "lavandula-stoechas",
+      "nom_comu": "Tomani",
+      "nom_cientific": "Lavandula stoechas",
+      "sinonims": [],
+      "grup": "Pinar",
+      "illes": [
+        "Menorca"
+      ],
+      "endemisme": false,
+      "mida_adulta_m": {
+        "alcada": [
+          0.2,
+          0.4
+        ],
+        "amplada": [
+          0.2,
+          0.4
+        ]
+      },
+      "floracio": [
+        "primavera",
+        "estiu"
+      ],
+      "fructificacio": [
+        "tardor"
+      ],
+      "tipus_fruit": "sec",
+      "necessitats_hidriques": "baixes",
+      "insolacio": "directe",
+      "tolerancia_salinitat": null,
+      "pol_linitzadors": {
+        "nectar": "elevat",
+        "pol·len": "baix",
+        "productora_melats": false
+      },
+      "atreu_papallones": true,
+      "atreu_ocells": false,
+      "resistent_herbivors": true,
+      "apte_bardissa": false,
+      "espinos": false,
+      "aromatic": true,
+      "parts_comestibles": [],
+      "toxicitat": false,
+      "infusio_condiment": true,
+      "descripcio": null,
+      "habitat": "Pinar",
+      "usos_jardineria": [],
+      "imatges": [
+        {
+          "id": "lavandula-stoechas-planta_sencera",
+          "vista": "planta_sencera",
+          "nom_vista": "Planta sencera",
+          "url": null,
+          "estil": "natura",
+          "principal": true,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        },
+        {
+          "id": "lavandula-stoechas-flors",
+          "vista": "flors",
+          "nom_vista": "Flors",
+          "url": null,
+          "estil": "botanic_fons_neutre",
+          "principal": false,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        },
+        {
+          "id": "lavandula-stoechas-fulles",
+          "vista": "fulles",
+          "nom_vista": "Fulles",
+          "url": null,
+          "estil": "botanic_fons_neutre",
+          "principal": false,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        }
+      ],
+      "estat_fitxa": "completada_des_de_taula",
+      "font": {
+        "document": "Catàleg de plantes autòctones del viver forestal de les Illes Balears",
+        "pagina_impresa": null,
+        "url": "https://xarxaforestal.org/wp-content/uploads/2023/06/Cataleg-Menut_version-web.pdf"
+      },
+      "port": "mata_herbacia_o_llenyosa",
+      "color_floracio": "lila"
+    },
+    {
+      "id": "phillyrea-angustifolia",
+      "nom_comu": "Aladern de fulla estreta",
+      "nom_cientific": "Phillyrea angustifolia",
+      "sinonims": [],
+      "grup": "Pinar",
+      "illes": [
+        "Mallorca",
+        "Menorca",
+        "Eivissa",
+        "Formentera",
+        "Cabrera",
+        "Dragonera"
+      ],
+      "endemisme": false,
+      "mida_adulta_m": {
+        "alcada": [
+          0.8,
+          2
+        ],
+        "amplada": [
+          0.8,
+          2
+        ]
+      },
+      "floracio": [
+        "primavera"
+      ],
+      "fructificacio": [
+        "tardor"
+      ],
+      "tipus_fruit": "carnós",
+      "necessitats_hidriques": "baixes",
+      "insolacio": "directe",
+      "tolerancia_salinitat": "tolerant",
+      "pol_linitzadors": {
+        "nectar": null,
+        "pol·len": "baix",
+        "productora_melats": false
+      },
+      "atreu_papallones": false,
+      "atreu_ocells": true,
+      "resistent_herbivors": false,
+      "apte_bardissa": true,
+      "espinos": false,
+      "aromatic": false,
+      "parts_comestibles": [],
+      "toxicitat": false,
+      "infusio_condiment": false,
+      "descripcio": null,
+      "habitat": "Pinar",
+      "usos_jardineria": [],
+      "imatges": [
+        {
+          "id": "phillyrea-angustifolia-planta_sencera",
+          "vista": "planta_sencera",
+          "nom_vista": "Planta sencera",
+          "url": null,
+          "estil": "natura",
+          "principal": true,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        },
+        {
+          "id": "phillyrea-angustifolia-flors",
+          "vista": "flors",
+          "nom_vista": "Flors",
+          "url": null,
+          "estil": "botanic_fons_neutre",
+          "principal": false,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        },
+        {
+          "id": "phillyrea-angustifolia-fulles",
+          "vista": "fulles",
+          "nom_vista": "Fulles",
+          "url": null,
+          "estil": "botanic_fons_neutre",
+          "principal": false,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        }
+      ],
+      "estat_fitxa": "completada_des_de_taula",
+      "font": {
+        "document": "Catàleg de plantes autòctones del viver forestal de les Illes Balears",
+        "pagina_impresa": null,
+        "url": "https://xarxaforestal.org/wp-content/uploads/2023/06/Cataleg-Menut_version-web.pdf"
+      },
+      "port": "arbust",
+      "color_floracio": "blanc"
+    },
+    {
+      "id": "pinus-halepensis",
+      "nom_comu": "Pi",
+      "nom_cientific": "Pinus halepensis",
+      "sinonims": [],
+      "grup": "Pinar",
+      "illes": [
+        "Mallorca",
+        "Menorca",
+        "Eivissa",
+        "Formentera",
+        "Cabrera",
+        "Dragonera"
+      ],
+      "endemisme": false,
+      "mida_adulta_m": {
+        "alcada": [
+          25,
+          25
+        ],
+        "amplada": [
+          7,
+          12
+        ]
+      },
+      "floracio": [
+        "primavera"
+      ],
+      "fructificacio": [
+        "estiu",
+        "tardor"
+      ],
+      "tipus_fruit": "sec",
+      "necessitats_hidriques": "baixes",
+      "insolacio": "directe",
+      "tolerancia_salinitat": null,
+      "pol_linitzadors": {
+        "nectar": null,
+        "pol·len": null,
+        "productora_melats": false
+      },
+      "atreu_papallones": false,
+      "atreu_ocells": true,
+      "resistent_herbivors": false,
+      "apte_bardissa": false,
+      "espinos": false,
+      "aromatic": false,
+      "parts_comestibles": [],
+      "toxicitat": false,
+      "infusio_condiment": false,
+      "descripcio": null,
+      "habitat": "Pinar",
+      "usos_jardineria": [],
+      "imatges": [
+        {
+          "id": "pinus-halepensis-planta_sencera",
+          "vista": "planta_sencera",
+          "nom_vista": "Planta sencera",
+          "url": null,
+          "estil": "natura",
+          "principal": true,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        },
+        {
+          "id": "pinus-halepensis-flors",
+          "vista": "flors",
+          "nom_vista": "Flors",
+          "url": null,
+          "estil": "botanic_fons_neutre",
+          "principal": false,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        },
+        {
+          "id": "pinus-halepensis-fulles",
+          "vista": "fulles",
+          "nom_vista": "Fulles",
+          "url": null,
+          "estil": "botanic_fons_neutre",
+          "principal": false,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        }
+      ],
+      "estat_fitxa": "completada_des_de_taula",
+      "font": {
+        "document": "Catàleg de plantes autòctones del viver forestal de les Illes Balears",
+        "pagina_impresa": null,
+        "url": "https://xarxaforestal.org/wp-content/uploads/2023/06/Cataleg-Menut_version-web.pdf"
+      },
+      "port": "arbre",
+      "color_floracio": "marró"
+    },
+    {
+      "id": "pinus-pinaster",
+      "nom_comu": "Pinastre",
+      "nom_cientific": "Pinus pinaster",
+      "sinonims": [],
+      "grup": "Pinar",
+      "illes": [
+        "Menorca"
+      ],
+      "endemisme": false,
+      "mida_adulta_m": {
+        "alcada": [
+          25,
+          25
+        ],
+        "amplada": [
+          7,
+          12
+        ]
+      },
+      "floracio": [
+        "primavera"
+      ],
+      "fructificacio": [
+        "estiu",
+        "tardor"
+      ],
+      "tipus_fruit": "sec",
+      "necessitats_hidriques": "baixes",
+      "insolacio": "directe",
+      "tolerancia_salinitat": null,
+      "pol_linitzadors": {
+        "nectar": null,
+        "pol·len": null,
+        "productora_melats": false
+      },
+      "atreu_papallones": false,
+      "atreu_ocells": true,
+      "resistent_herbivors": false,
+      "apte_bardissa": false,
+      "espinos": false,
+      "aromatic": false,
+      "parts_comestibles": [],
+      "toxicitat": false,
+      "infusio_condiment": false,
+      "descripcio": null,
+      "habitat": "Pinar",
+      "usos_jardineria": [],
+      "imatges": [
+        {
+          "id": "pinus-pinaster-planta_sencera",
+          "vista": "planta_sencera",
+          "nom_vista": "Planta sencera",
+          "url": null,
+          "estil": "natura",
+          "principal": true,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        },
+        {
+          "id": "pinus-pinaster-flors",
+          "vista": "flors",
+          "nom_vista": "Flors",
+          "url": null,
+          "estil": "botanic_fons_neutre",
+          "principal": false,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        },
+        {
+          "id": "pinus-pinaster-fulles",
+          "vista": "fulles",
+          "nom_vista": "Fulles",
+          "url": null,
+          "estil": "botanic_fons_neutre",
+          "principal": false,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        }
+      ],
+      "estat_fitxa": "completada_des_de_taula",
+      "font": {
+        "document": "Catàleg de plantes autòctones del viver forestal de les Illes Balears",
+        "pagina_impresa": null,
+        "url": "https://xarxaforestal.org/wp-content/uploads/2023/06/Cataleg-Menut_version-web.pdf"
+      },
+      "port": "arbre",
+      "color_floracio": "marró"
+    },
+    {
+      "id": "pinus-pinea",
+      "nom_comu": "Pi ver",
+      "nom_cientific": "Pinus pinea",
+      "sinonims": [],
+      "grup": "Pinar",
+      "illes": [
+        "Mallorca",
+        "Eivissa",
+        "Formentera"
+      ],
+      "endemisme": false,
+      "mida_adulta_m": {
+        "alcada": [
+          25,
+          25
+        ],
+        "amplada": [
+          7,
+          12
+        ]
+      },
+      "floracio": [
+        "primavera"
+      ],
+      "fructificacio": [
+        "estiu",
+        "tardor"
+      ],
+      "tipus_fruit": "sec",
+      "necessitats_hidriques": "baixes",
+      "insolacio": "directe",
+      "tolerancia_salinitat": null,
+      "pol_linitzadors": {
+        "nectar": null,
+        "pol·len": null,
+        "productora_melats": false
+      },
+      "atreu_papallones": false,
+      "atreu_ocells": true,
+      "resistent_herbivors": false,
+      "apte_bardissa": false,
+      "espinos": false,
+      "aromatic": false,
+      "parts_comestibles": [
+        "fruit"
+      ],
+      "toxicitat": false,
+      "infusio_condiment": false,
+      "descripcio": null,
+      "habitat": "Pinar",
+      "usos_jardineria": [],
+      "imatges": [
+        {
+          "id": "pinus-pinea-planta_sencera",
+          "vista": "planta_sencera",
+          "nom_vista": "Planta sencera",
+          "url": null,
+          "estil": "natura",
+          "principal": true,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        },
+        {
+          "id": "pinus-pinea-flors",
+          "vista": "flors",
+          "nom_vista": "Flors",
+          "url": null,
+          "estil": "botanic_fons_neutre",
+          "principal": false,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        },
+        {
+          "id": "pinus-pinea-fulles",
+          "vista": "fulles",
+          "nom_vista": "Fulles",
+          "url": null,
+          "estil": "botanic_fons_neutre",
+          "principal": false,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        }
+      ],
+      "estat_fitxa": "completada_des_de_taula",
+      "font": {
+        "document": "Catàleg de plantes autòctones del viver forestal de les Illes Balears",
+        "pagina_impresa": null,
+        "url": "https://xarxaforestal.org/wp-content/uploads/2023/06/Cataleg-Menut_version-web.pdf"
+      },
+      "port": "arbre",
+      "color_floracio": "marró"
+    },
+    {
+      "id": "quercus-coccifera",
+      "nom_comu": "Coscoll",
+      "nom_cientific": "Quercus coccifera",
+      "sinonims": [],
+      "grup": "Pinar",
+      "illes": [
+        "Mallorca",
+        "Eivissa"
+      ],
+      "endemisme": false,
+      "mida_adulta_m": {
+        "alcada": [
+          2,
+          4
+        ],
+        "amplada": [
+          2,
+          5
+        ]
+      },
+      "floracio": [
+        "primavera"
+      ],
+      "fructificacio": [
+        "estiu",
+        "tardor"
+      ],
+      "tipus_fruit": "sec",
+      "necessitats_hidriques": "baixes",
+      "insolacio": "directe",
+      "tolerancia_salinitat": null,
+      "pol_linitzadors": {
+        "nectar": null,
+        "pol·len": "mitja",
+        "productora_melats": false
+      },
+      "atreu_papallones": false,
+      "atreu_ocells": true,
+      "resistent_herbivors": false,
+      "apte_bardissa": true,
+      "espinos": true,
+      "aromatic": false,
+      "parts_comestibles": [],
+      "toxicitat": false,
+      "infusio_condiment": false,
+      "descripcio": null,
+      "habitat": "Pinar",
+      "usos_jardineria": [],
+      "imatges": [
+        {
+          "id": "quercus-coccifera-planta_sencera",
+          "vista": "planta_sencera",
+          "nom_vista": "Planta sencera",
+          "url": null,
+          "estil": "natura",
+          "principal": true,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        },
+        {
+          "id": "quercus-coccifera-flors",
+          "vista": "flors",
+          "nom_vista": "Flors",
+          "url": null,
+          "estil": "botanic_fons_neutre",
+          "principal": false,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        },
+        {
+          "id": "quercus-coccifera-fulles",
+          "vista": "fulles",
+          "nom_vista": "Fulles",
+          "url": null,
+          "estil": "botanic_fons_neutre",
+          "principal": false,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        }
+      ],
+      "estat_fitxa": "completada_des_de_taula",
+      "font": {
+        "document": "Catàleg de plantes autòctones del viver forestal de les Illes Balears",
+        "pagina_impresa": null,
+        "url": "https://xarxaforestal.org/wp-content/uploads/2023/06/Cataleg-Menut_version-web.pdf"
+      },
+      "port": "arbust",
+      "color_floracio": "ocre"
+    },
+    {
+      "id": "ruta-chalepensis",
+      "nom_comu": "Ruda",
+      "nom_cientific": "Ruta chalepensis",
+      "sinonims": [],
+      "grup": "Pinar",
+      "illes": [
+        "Mallorca",
+        "Menorca",
+        "Eivissa",
+        "Formentera",
+        "Cabrera",
+        "Dragonera"
+      ],
+      "endemisme": false,
+      "mida_adulta_m": {
+        "alcada": [
+          0.3,
+          0.5
+        ],
+        "amplada": [
+          0.3,
+          0.4
+        ]
+      },
+      "floracio": [
+        "primavera"
+      ],
+      "fructificacio": [
+        "estiu"
+      ],
+      "tipus_fruit": "sec",
+      "necessitats_hidriques": "baixes",
+      "insolacio": "directe",
+      "tolerancia_salinitat": null,
+      "pol_linitzadors": {
+        "nectar": "mitja",
+        "pol·len": "baix",
+        "productora_melats": false
+      },
+      "atreu_papallones": true,
+      "atreu_ocells": false,
+      "resistent_herbivors": true,
+      "apte_bardissa": false,
+      "espinos": false,
+      "aromatic": true,
+      "parts_comestibles": [],
+      "toxicitat": false,
+      "infusio_condiment": true,
+      "descripcio": null,
+      "habitat": "Pinar",
+      "usos_jardineria": [],
+      "imatges": [
+        {
+          "id": "ruta-chalepensis-planta_sencera",
+          "vista": "planta_sencera",
+          "nom_vista": "Planta sencera",
+          "url": null,
+          "estil": "natura",
+          "principal": true,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        },
+        {
+          "id": "ruta-chalepensis-flors",
+          "vista": "flors",
+          "nom_vista": "Flors",
+          "url": null,
+          "estil": "botanic_fons_neutre",
+          "principal": false,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        },
+        {
+          "id": "ruta-chalepensis-fulles",
+          "vista": "fulles",
+          "nom_vista": "Fulles",
+          "url": null,
+          "estil": "botanic_fons_neutre",
+          "principal": false,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        }
+      ],
+      "estat_fitxa": "completada_des_de_taula",
+      "font": {
+        "document": "Catàleg de plantes autòctones del viver forestal de les Illes Balears",
+        "pagina_impresa": null,
+        "url": "https://xarxaforestal.org/wp-content/uploads/2023/06/Cataleg-Menut_version-web.pdf"
+      },
+      "port": "mata_herbacia_o_llenyosa",
+      "color_floracio": "groc"
+    },
+    {
+      "id": "ruta-montana",
+      "nom_comu": "Ruda de bosc",
+      "nom_cientific": "Ruta montana",
+      "sinonims": [],
+      "grup": "Pinar",
+      "illes": [
+        "Mallorca"
+      ],
+      "endemisme": false,
+      "mida_adulta_m": {
+        "alcada": [
+          0.1,
+          0.5
+        ],
+        "amplada": [
+          0.2,
+          0.4
+        ]
+      },
+      "floracio": [
+        "estiu"
+      ],
+      "fructificacio": [
+        "estiu"
+      ],
+      "tipus_fruit": "sec",
+      "necessitats_hidriques": "baixes",
+      "insolacio": "directe",
+      "tolerancia_salinitat": null,
+      "pol_linitzadors": {
+        "nectar": "mitja",
+        "pol·len": null,
+        "productora_melats": false
+      },
+      "atreu_papallones": true,
+      "atreu_ocells": false,
+      "resistent_herbivors": true,
+      "apte_bardissa": false,
+      "espinos": false,
+      "aromatic": true,
+      "parts_comestibles": [],
+      "toxicitat": false,
+      "infusio_condiment": true,
+      "descripcio": null,
+      "habitat": "Pinar",
+      "usos_jardineria": [],
+      "imatges": [
+        {
+          "id": "ruta-montana-planta_sencera",
+          "vista": "planta_sencera",
+          "nom_vista": "Planta sencera",
+          "url": null,
+          "estil": "natura",
+          "principal": true,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        },
+        {
+          "id": "ruta-montana-flors",
+          "vista": "flors",
+          "nom_vista": "Flors",
+          "url": null,
+          "estil": "botanic_fons_neutre",
+          "principal": false,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        },
+        {
+          "id": "ruta-montana-fulles",
+          "vista": "fulles",
+          "nom_vista": "Fulles",
+          "url": null,
+          "estil": "botanic_fons_neutre",
+          "principal": false,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        }
+      ],
+      "estat_fitxa": "completada_des_de_taula",
+      "font": {
+        "document": "Catàleg de plantes autòctones del viver forestal de les Illes Balears",
+        "pagina_impresa": null,
+        "url": "https://xarxaforestal.org/wp-content/uploads/2023/06/Cataleg-Menut_version-web.pdf"
+      },
+      "port": "mata_herbacia_o_llenyosa",
+      "color_floracio": "groc"
+    },
+    {
+      "id": "salvia-rosmarinus",
+      "nom_comu": "Romaní",
+      "nom_cientific": "Salvia rosmarinus",
+      "sinonims": [
+        "Rosmarinus officinalis"
+      ],
+      "grup": "Pinar",
+      "illes": [
+        "Mallorca",
+        "Menorca",
+        "Eivissa",
+        "Formentera",
+        "Cabrera"
+      ],
+      "endemisme": false,
+      "mida_adulta_m": {
+        "alcada": [
+          0.1,
+          0.8
+        ],
+        "amplada": [
+          0.6,
+          1.5
+        ]
+      },
+      "floracio": [
+        "primavera",
+        "tardor",
+        "hivern"
+      ],
+      "fructificacio": [
+        "estiu",
+        "hivern"
+      ],
+      "tipus_fruit": "sec",
+      "necessitats_hidriques": "baixes",
+      "insolacio": "directe",
+      "tolerancia_salinitat": null,
+      "pol_linitzadors": {
+        "nectar": "elevat",
+        "pol·len": "baix",
+        "productora_melats": false
+      },
+      "atreu_papallones": false,
+      "atreu_ocells": false,
+      "resistent_herbivors": true,
+      "apte_bardissa": false,
+      "espinos": false,
+      "aromatic": true,
+      "parts_comestibles": [],
+      "toxicitat": false,
+      "infusio_condiment": true,
+      "descripcio": null,
+      "habitat": "Pinar",
+      "usos_jardineria": [],
+      "imatges": [
+        {
+          "id": "salvia-rosmarinus-planta_sencera",
+          "vista": "planta_sencera",
+          "nom_vista": "Planta sencera",
+          "url": null,
+          "estil": "natura",
+          "principal": true,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        },
+        {
+          "id": "salvia-rosmarinus-flors",
+          "vista": "flors",
+          "nom_vista": "Flors",
+          "url": null,
+          "estil": "botanic_fons_neutre",
+          "principal": false,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        },
+        {
+          "id": "salvia-rosmarinus-fulles",
+          "vista": "fulles",
+          "nom_vista": "Fulles",
+          "url": null,
+          "estil": "botanic_fons_neutre",
+          "principal": false,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        }
+      ],
+      "estat_fitxa": "completada_des_de_taula",
+      "font": {
+        "document": "Catàleg de plantes autòctones del viver forestal de les Illes Balears",
+        "pagina_impresa": null,
+        "url": "https://xarxaforestal.org/wp-content/uploads/2023/06/Cataleg-Menut_version-web.pdf"
+      },
+      "port": "arbust",
+      "color_floracio": "lila"
+    },
+    {
+      "id": "teucrium-capitatum-subsp-majoricum",
+      "nom_comu": "Herba de Sant Ponç",
+      "nom_cientific": "Teucrium capitatum subsp. majoricum",
+      "sinonims": [],
+      "grup": "Pinar",
+      "illes": [
+        "Mallorca",
+        "Menorca",
+        "Eivissa",
+        "Formentera",
+        "Cabrera",
+        "Dragonera"
+      ],
+      "endemisme": false,
+      "mida_adulta_m": {
+        "alcada": [
+          0.1,
+          0.3
+        ],
+        "amplada": [
+          0.2,
+          0.5
+        ]
+      },
+      "floracio": [
+        "primavera"
+      ],
+      "fructificacio": [
+        "estiu"
+      ],
+      "tipus_fruit": "sec",
+      "necessitats_hidriques": "baixes",
+      "insolacio": "directe",
+      "tolerancia_salinitat": null,
+      "pol_linitzadors": {
+        "nectar": "elevat",
+        "pol·len": "baix",
+        "productora_melats": false
+      },
+      "atreu_papallones": true,
+      "atreu_ocells": false,
+      "resistent_herbivors": true,
+      "apte_bardissa": false,
+      "espinos": false,
+      "aromatic": true,
+      "parts_comestibles": [],
+      "toxicitat": false,
+      "infusio_condiment": false,
+      "descripcio": null,
+      "habitat": "Pinar",
+      "usos_jardineria": [],
+      "imatges": [
+        {
+          "id": "teucrium-capitatum-subsp-majoricum-planta_sencera",
+          "vista": "planta_sencera",
+          "nom_vista": "Planta sencera",
+          "url": null,
+          "estil": "natura",
+          "principal": true,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        },
+        {
+          "id": "teucrium-capitatum-subsp-majoricum-flors",
+          "vista": "flors",
+          "nom_vista": "Flors",
+          "url": null,
+          "estil": "botanic_fons_neutre",
+          "principal": false,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        },
+        {
+          "id": "teucrium-capitatum-subsp-majoricum-fulles",
+          "vista": "fulles",
+          "nom_vista": "Fulles",
+          "url": null,
+          "estil": "botanic_fons_neutre",
+          "principal": false,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        }
+      ],
+      "estat_fitxa": "completada_des_de_taula",
+      "font": {
+        "document": "Catàleg de plantes autòctones del viver forestal de les Illes Balears",
+        "pagina_impresa": null,
+        "url": "https://xarxaforestal.org/wp-content/uploads/2023/06/Cataleg-Menut_version-web.pdf"
+      },
+      "port": "mata_herbacia_o_llenyosa",
+      "color_floracio": "rosa"
+    },
+    {
+      "id": "thymbra-capitata",
+      "nom_comu": "Frígola",
+      "nom_cientific": "Thymbra capitata",
+      "sinonims": [],
+      "grup": "Pinar",
+      "illes": [
+        "Mallorca",
+        "Eivissa",
+        "Formentera"
+      ],
+      "endemisme": false,
+      "mida_adulta_m": {
+        "alcada": [
+          0.2,
+          0.5
+        ],
+        "amplada": [
+          0.3,
+          0.7
+        ]
+      },
+      "floracio": [
+        "primavera",
+        "estiu"
+      ],
+      "fructificacio": [
+        "estiu"
+      ],
+      "tipus_fruit": "sec",
+      "necessitats_hidriques": "baixes",
+      "insolacio": "directe",
+      "tolerancia_salinitat": null,
+      "pol_linitzadors": {
+        "nectar": "elevat",
+        "pol·len": "baix",
+        "productora_melats": false
+      },
+      "atreu_papallones": true,
+      "atreu_ocells": false,
+      "resistent_herbivors": true,
+      "apte_bardissa": false,
+      "espinos": false,
+      "aromatic": true,
+      "parts_comestibles": [],
+      "toxicitat": false,
+      "infusio_condiment": true,
+      "descripcio": null,
+      "habitat": "Pinar",
+      "usos_jardineria": [],
+      "imatges": [
+        {
+          "id": "thymbra-capitata-planta_sencera",
+          "vista": "planta_sencera",
+          "nom_vista": "Planta sencera",
+          "url": null,
+          "estil": "natura",
+          "principal": true,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        },
+        {
+          "id": "thymbra-capitata-flors",
+          "vista": "flors",
+          "nom_vista": "Flors",
+          "url": null,
+          "estil": "botanic_fons_neutre",
+          "principal": false,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        },
+        {
+          "id": "thymbra-capitata-fulles",
+          "vista": "fulles",
+          "nom_vista": "Fulles",
+          "url": null,
+          "estil": "botanic_fons_neutre",
+          "principal": false,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        }
+      ],
+      "estat_fitxa": "completada_des_de_taula",
+      "font": {
+        "document": "Catàleg de plantes autòctones del viver forestal de les Illes Balears",
+        "pagina_impresa": null,
+        "url": "https://xarxaforestal.org/wp-content/uploads/2023/06/Cataleg-Menut_version-web.pdf"
+      },
+      "port": "mata_herbacia_o_llenyosa",
+      "color_floracio": "rosa"
+    }
+  ],
+  "configuracio_imatges": {
+    "vistes_obligatories": [
+      "planta_sencera",
+      "flors",
+      "fulles"
+    ],
+    "estils_admesos": [
+      "natura",
+      "botanic_fons_neutre"
+    ],
+    "estil_per_defecte": {
+      "planta_sencera": "natura",
+      "flors": "botanic_fons_neutre",
+      "fulles": "botanic_fons_neutre"
+    },
+    "permetre_imatges_alternatives_per_vista": true,
+    "nota": "Les URL null indiquen que encara no s'ha incorporat cap fotografia."
+  }
+}

@@ -1,0 +1,505 @@
+{
+  "versio_esquema": "1.1.0",
+  "idioma": "ca",
+  "nom_catalog": "Catàleg de flora mediterrània de les Illes Balears",
+  "habitat": "Muntanya",
+  "font_principal": "https://xarxaforestal.org/wp-content/uploads/2023/06/Cataleg-Menut_version-web.pdf",
+  "nota": "Espècies de Muntanya transcrites de la taula facilitada; els camps no documentats es mantenen nuls o buits.",
+  "plantes": [
+    {
+      "id": "buxus-balearica",
+      "nom_comu": "Boix",
+      "nom_cientific": "Buxus balearica",
+      "sinonims": [],
+      "grup": "Muntanya",
+      "illes": [
+        "Mallorca",
+        "Cabrera"
+      ],
+      "endemisme": false,
+      "mida_adulta_m": {
+        "alcada": [
+          1,
+          4
+        ],
+        "amplada": [
+          2,
+          3
+        ]
+      },
+      "floracio": [
+        "primavera"
+      ],
+      "fructificacio": [
+        "tardor"
+      ],
+      "tipus_fruit": "sec",
+      "necessitats_hidriques": "mitjanes",
+      "insolacio": "directe",
+      "tolerancia_salinitat": null,
+      "pol_linitzadors": {
+        "nectar": null,
+        "pol·len": "mitja",
+        "productora_melats": false
+      },
+      "atreu_papallones": false,
+      "atreu_ocells": false,
+      "resistent_herbivors": true,
+      "apte_bardissa": true,
+      "espinos": false,
+      "aromatic": false,
+      "parts_comestibles": [],
+      "toxicitat": false,
+      "infusio_condiment": false,
+      "descripcio": null,
+      "habitat": "Muntanya",
+      "usos_jardineria": [],
+      "imatges": [
+        {
+          "id": "buxus-balearica-planta_sencera",
+          "vista": "planta_sencera",
+          "nom_vista": "Planta sencera",
+          "url": null,
+          "estil": "natura",
+          "principal": true,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        },
+        {
+          "id": "buxus-balearica-flors",
+          "vista": "flors",
+          "nom_vista": "Flors",
+          "url": null,
+          "estil": "botanic_fons_neutre",
+          "principal": false,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        },
+        {
+          "id": "buxus-balearica-fulles",
+          "vista": "fulles",
+          "nom_vista": "Fulles",
+          "url": null,
+          "estil": "botanic_fons_neutre",
+          "principal": false,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        }
+      ],
+      "estat_fitxa": "completada_des_de_taula",
+      "font": {
+        "document": "Catàleg de plantes autòctones del viver forestal de les Illes Balears",
+        "pagina_impresa": null,
+        "url": "https://xarxaforestal.org/wp-content/uploads/2023/06/Cataleg-Menut_version-web.pdf"
+      },
+      "port": "arbust",
+      "color_floracio": "verd grisós"
+    },
+    {
+      "id": "clinopodium-rouyanum",
+      "nom_comu": null,
+      "nom_cientific": "Clinopodium rouyanum",
+      "sinonims": [],
+      "grup": "Muntanya",
+      "illes": [
+        "Mallorca"
+      ],
+      "endemisme": true,
+      "mida_adulta_m": {
+        "alcada": [
+          0.1,
+          0.3
+        ],
+        "amplada": [
+          0.2,
+          0.3
+        ]
+      },
+      "floracio": [
+        "estiu"
+      ],
+      "fructificacio": [
+        "tardor"
+      ],
+      "tipus_fruit": "sec",
+      "necessitats_hidriques": "mitjanes",
+      "insolacio": "directe",
+      "tolerancia_salinitat": null,
+      "pol_linitzadors": {
+        "nectar": "baix",
+        "pol·len": null,
+        "productora_melats": false
+      },
+      "atreu_papallones": false,
+      "atreu_ocells": false,
+      "resistent_herbivors": true,
+      "apte_bardissa": false,
+      "espinos": false,
+      "aromatic": true,
+      "parts_comestibles": [],
+      "toxicitat": false,
+      "infusio_condiment": false,
+      "descripcio": null,
+      "habitat": "Muntanya",
+      "usos_jardineria": [],
+      "imatges": [
+        {
+          "id": "clinopodium-rouyanum-planta_sencera",
+          "vista": "planta_sencera",
+          "nom_vista": "Planta sencera",
+          "url": null,
+          "estil": "natura",
+          "principal": true,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        },
+        {
+          "id": "clinopodium-rouyanum-flors",
+          "vista": "flors",
+          "nom_vista": "Flors",
+          "url": null,
+          "estil": "botanic_fons_neutre",
+          "principal": false,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        },
+        {
+          "id": "clinopodium-rouyanum-fulles",
+          "vista": "fulles",
+          "nom_vista": "Fulles",
+          "url": null,
+          "estil": "botanic_fons_neutre",
+          "principal": false,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        }
+      ],
+      "estat_fitxa": "completada_des_de_taula",
+      "font": {
+        "document": "Catàleg de plantes autòctones del viver forestal de les Illes Balears",
+        "pagina_impresa": null,
+        "url": "https://xarxaforestal.org/wp-content/uploads/2023/06/Cataleg-Menut_version-web.pdf"
+      },
+      "port": "mata_herbacia_o_llenyosa",
+      "color_floracio": "lila pàl·lid"
+    },
+    {
+      "id": "hypericum-balearicum",
+      "nom_comu": "Estepa joana",
+      "nom_cientific": "Hypericum balearicum",
+      "sinonims": [],
+      "grup": "Muntanya",
+      "illes": [
+        "Mallorca",
+        "Menorca",
+        "Eivissa",
+        "Cabrera",
+        "Dragonera"
+      ],
+      "endemisme": true,
+      "mida_adulta_m": {
+        "alcada": [
+          0.5,
+          1.3
+        ],
+        "amplada": [
+          0.7,
+          1
+        ]
+      },
+      "floracio": [
+        "primavera",
+        "estiu"
+      ],
+      "fructificacio": [
+        "tardor"
+      ],
+      "tipus_fruit": "sec",
+      "necessitats_hidriques": "baixes",
+      "insolacio": "directe",
+      "tolerancia_salinitat": null,
+      "pol_linitzadors": {
+        "nectar": null,
+        "pol·len": "mitja",
+        "productora_melats": false
+      },
+      "atreu_papallones": false,
+      "atreu_ocells": false,
+      "resistent_herbivors": true,
+      "apte_bardissa": false,
+      "espinos": false,
+      "aromatic": true,
+      "parts_comestibles": [],
+      "toxicitat": false,
+      "infusio_condiment": false,
+      "descripcio": null,
+      "habitat": "Muntanya",
+      "usos_jardineria": [],
+      "imatges": [
+        {
+          "id": "hypericum-balearicum-planta_sencera",
+          "vista": "planta_sencera",
+          "nom_vista": "Planta sencera",
+          "url": null,
+          "estil": "natura",
+          "principal": true,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        },
+        {
+          "id": "hypericum-balearicum-flors",
+          "vista": "flors",
+          "nom_vista": "Flors",
+          "url": null,
+          "estil": "botanic_fons_neutre",
+          "principal": false,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        },
+        {
+          "id": "hypericum-balearicum-fulles",
+          "vista": "fulles",
+          "nom_vista": "Fulles",
+          "url": null,
+          "estil": "botanic_fons_neutre",
+          "principal": false,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        }
+      ],
+      "estat_fitxa": "completada_des_de_taula",
+      "font": {
+        "document": "Catàleg de plantes autòctones del viver forestal de les Illes Balears",
+        "pagina_impresa": null,
+        "url": "https://xarxaforestal.org/wp-content/uploads/2023/06/Cataleg-Menut_version-web.pdf"
+      },
+      "port": "arbust",
+      "color_floracio": "groc"
+    },
+    {
+      "id": "teucrium-asiaticum",
+      "nom_comu": "Brutònica",
+      "nom_cientific": "Teucrium asiaticum",
+      "sinonims": [],
+      "grup": "Muntanya",
+      "illes": [
+        "Mallorca",
+        "Menorca"
+      ],
+      "endemisme": true,
+      "mida_adulta_m": {
+        "alcada": [
+          0.1,
+          0.4
+        ],
+        "amplada": [
+          0.1,
+          0.5
+        ]
+      },
+      "floracio": [
+        "estiu"
+      ],
+      "fructificacio": [
+        "tardor"
+      ],
+      "tipus_fruit": "sec",
+      "necessitats_hidriques": "baixes",
+      "insolacio": "directe",
+      "tolerancia_salinitat": null,
+      "pol_linitzadors": {
+        "nectar": "mitja",
+        "pol·len": "baix",
+        "productora_melats": false
+      },
+      "atreu_papallones": true,
+      "atreu_ocells": false,
+      "resistent_herbivors": true,
+      "apte_bardissa": false,
+      "espinos": false,
+      "aromatic": true,
+      "parts_comestibles": [],
+      "toxicitat": false,
+      "infusio_condiment": false,
+      "descripcio": null,
+      "habitat": "Muntanya",
+      "usos_jardineria": [],
+      "imatges": [
+        {
+          "id": "teucrium-asiaticum-planta_sencera",
+          "vista": "planta_sencera",
+          "nom_vista": "Planta sencera",
+          "url": null,
+          "estil": "natura",
+          "principal": true,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        },
+        {
+          "id": "teucrium-asiaticum-flors",
+          "vista": "flors",
+          "nom_vista": "Flors",
+          "url": null,
+          "estil": "botanic_fons_neutre",
+          "principal": false,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        },
+        {
+          "id": "teucrium-asiaticum-fulles",
+          "vista": "fulles",
+          "nom_vista": "Fulles",
+          "url": null,
+          "estil": "botanic_fons_neutre",
+          "principal": false,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        }
+      ],
+      "estat_fitxa": "completada_des_de_taula",
+      "font": {
+        "document": "Catàleg de plantes autòctones del viver forestal de les Illes Balears",
+        "pagina_impresa": null,
+        "url": "https://xarxaforestal.org/wp-content/uploads/2023/06/Cataleg-Menut_version-web.pdf"
+      },
+      "port": "mata_herbacia_o_llenyosa",
+      "color_floracio": "rosa"
+    },
+    {
+      "id": "teucrium-balearicum",
+      "nom_comu": "Eixorba-rates blanc",
+      "nom_cientific": "Teucrium balearicum",
+      "sinonims": [],
+      "grup": "Muntanya",
+      "illes": [
+        "Mallorca"
+      ],
+      "endemisme": true,
+      "mida_adulta_m": {
+        "alcada": [
+          0.1,
+          0.3
+        ],
+        "amplada": [
+          0.2,
+          0.4
+        ]
+      },
+      "floracio": [
+        "estiu"
+      ],
+      "fructificacio": [
+        "tardor"
+      ],
+      "tipus_fruit": "sec",
+      "necessitats_hidriques": "baixes",
+      "insolacio": "directe",
+      "tolerancia_salinitat": null,
+      "pol_linitzadors": {
+        "nectar": "mitja",
+        "pol·len": "baix",
+        "productora_melats": false
+      },
+      "atreu_papallones": true,
+      "atreu_ocells": false,
+      "resistent_herbivors": true,
+      "apte_bardissa": true,
+      "espinos": true,
+      "aromatic": false,
+      "parts_comestibles": [],
+      "toxicitat": false,
+      "infusio_condiment": false,
+      "descripcio": null,
+      "habitat": "Muntanya",
+      "usos_jardineria": [],
+      "imatges": [
+        {
+          "id": "teucrium-balearicum-planta_sencera",
+          "vista": "planta_sencera",
+          "nom_vista": "Planta sencera",
+          "url": null,
+          "estil": "natura",
+          "principal": true,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        },
+        {
+          "id": "teucrium-balearicum-flors",
+          "vista": "flors",
+          "nom_vista": "Flors",
+          "url": null,
+          "estil": "botanic_fons_neutre",
+          "principal": false,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        },
+        {
+          "id": "teucrium-balearicum-fulles",
+          "vista": "fulles",
+          "nom_vista": "Fulles",
+          "url": null,
+          "estil": "botanic_fons_neutre",
+          "principal": false,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        }
+      ],
+      "estat_fitxa": "completada_des_de_taula",
+      "font": {
+        "document": "Catàleg de plantes autòctones del viver forestal de les Illes Balears",
+        "pagina_impresa": null,
+        "url": "https://xarxaforestal.org/wp-content/uploads/2023/06/Cataleg-Menut_version-web.pdf"
+      },
+      "port": "mata_herbacia_o_llenyosa",
+      "color_floracio": "rosa"
+    }
+  ],
+  "configuracio_imatges": {
+    "vistes_obligatories": [
+      "planta_sencera",
+      "flors",
+      "fulles"
+    ],
+    "estils_admesos": [
+      "natura",
+      "botanic_fons_neutre"
+    ],
+    "estil_per_defecte": {
+      "planta_sencera": "natura",
+      "flors": "botanic_fons_neutre",
+      "fulles": "botanic_fons_neutre"
+    },
+    "permetre_imatges_alternatives_per_vista": true,
+    "nota": "Les URL null indiquen que encara no s'ha incorporat cap fotografia."
+  }
+}

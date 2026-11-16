@@ -1,0 +1,1587 @@
+{
+  "versio_esquema": "1.1.0",
+  "idioma": "ca",
+  "nom_catalog": "Catàleg de flora mediterrània de les Illes Balears",
+  "habitat": "Dunes i savinar",
+  "font_principal": "https://xarxaforestal.org/wp-content/uploads/2023/06/Cataleg-Menut_version-web.pdf",
+  "nota": "Espècies de Dunes i savinar transcrites de les dues taules facilitades. Les dades no indicades es mantenen nul·les o buides.",
+  "plantes": [
+    {
+      "id": "juniperus-phoenicea-subsp-turbinata",
+      "nom_comu": "Savina",
+      "nom_cientific": "Juniperus phoenicea subsp. turbinata",
+      "sinonims": [],
+      "grup": "Dunes i savinar",
+      "illes": [
+        "Mallorca",
+        "Menorca",
+        "Eivissa",
+        "Formentera",
+        "Cabrera",
+        "Dragonera"
+      ],
+      "endemisme": false,
+      "mida_adulta_m": {
+        "alcada": [
+          5,
+          5
+        ],
+        "amplada": [
+          2,
+          5
+        ]
+      },
+      "floracio": [
+        "hivern"
+      ],
+      "fructificacio": [
+        "estiu",
+        "tardor"
+      ],
+      "tipus_fruit": "carnós",
+      "necessitats_hidriques": "baixes",
+      "insolacio": "directe",
+      "tolerancia_salinitat": "tolerant",
+      "pol_linitzadors": {
+        "nectar": null,
+        "pol·len": null,
+        "productora_melats": false
+      },
+      "atreu_papallones": false,
+      "atreu_ocells": true,
+      "resistent_herbivors": true,
+      "apte_bardissa": false,
+      "espinos": false,
+      "aromatic": true,
+      "parts_comestibles": [],
+      "toxicitat": false,
+      "infusio_condiment": false,
+      "descripcio": null,
+      "habitat": "Dunes i savinar",
+      "usos_jardineria": [],
+      "imatges": [
+        {
+          "id": "juniperus-phoenicea-subsp-turbinata-planta_sencera",
+          "vista": "planta_sencera",
+          "nom_vista": "Planta sencera",
+          "url": null,
+          "estil": "natura",
+          "principal": true,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        },
+        {
+          "id": "juniperus-phoenicea-subsp-turbinata-flors",
+          "vista": "flors",
+          "nom_vista": "Flors",
+          "url": null,
+          "estil": "botanic_fons_neutre",
+          "principal": false,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        },
+        {
+          "id": "juniperus-phoenicea-subsp-turbinata-fulles",
+          "vista": "fulles",
+          "nom_vista": "Fulles",
+          "url": null,
+          "estil": "botanic_fons_neutre",
+          "principal": false,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        }
+      ],
+      "estat_fitxa": "completada_des_de_taula",
+      "font": {
+        "document": "Catàleg de plantes autòctones del viver forestal de les Illes Balears",
+        "pagina_impresa": null,
+        "url": "https://xarxaforestal.org/wp-content/uploads/2023/06/Cataleg-Menut_version-web.pdf"
+      },
+      "port": "arbre",
+      "color_floracio": "groc pàl·lid"
+    },
+    {
+      "id": "lotus-cytisoides",
+      "nom_comu": "Trèvol de platja",
+      "nom_cientific": "Lotus cytisoides",
+      "sinonims": [],
+      "grup": "Dunes i savinar",
+      "illes": [
+        "Mallorca",
+        "Menorca",
+        "Eivissa",
+        "Formentera"
+      ],
+      "endemisme": false,
+      "mida_adulta_m": {
+        "alcada": [
+          0.1,
+          0.2
+        ],
+        "amplada": [
+          0.4,
+          1
+        ]
+      },
+      "floracio": [
+        "primavera",
+        "estiu"
+      ],
+      "fructificacio": [
+        "estiu",
+        "tardor"
+      ],
+      "tipus_fruit": "sec",
+      "necessitats_hidriques": "baixes",
+      "insolacio": "directe",
+      "tolerancia_salinitat": "molt tolerant",
+      "pol_linitzadors": {
+        "nectar": "mitja",
+        "pol·len": null,
+        "productora_melats": false
+      },
+      "atreu_papallones": false,
+      "atreu_ocells": false,
+      "resistent_herbivors": false,
+      "apte_bardissa": false,
+      "espinos": false,
+      "aromatic": false,
+      "parts_comestibles": [],
+      "toxicitat": false,
+      "infusio_condiment": false,
+      "descripcio": null,
+      "habitat": "Dunes i savinar",
+      "usos_jardineria": [],
+      "imatges": [
+        {
+          "id": "lotus-cytisoides-planta_sencera",
+          "vista": "planta_sencera",
+          "nom_vista": "Planta sencera",
+          "url": null,
+          "estil": "natura",
+          "principal": true,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        },
+        {
+          "id": "lotus-cytisoides-flors",
+          "vista": "flors",
+          "nom_vista": "Flors",
+          "url": null,
+          "estil": "botanic_fons_neutre",
+          "principal": false,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        },
+        {
+          "id": "lotus-cytisoides-fulles",
+          "vista": "fulles",
+          "nom_vista": "Fulles",
+          "url": null,
+          "estil": "botanic_fons_neutre",
+          "principal": false,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        }
+      ],
+      "estat_fitxa": "completada_des_de_taula",
+      "font": {
+        "document": "Catàleg de plantes autòctones del viver forestal de les Illes Balears",
+        "pagina_impresa": null,
+        "url": "https://xarxaforestal.org/wp-content/uploads/2023/06/Cataleg-Menut_version-web.pdf"
+      },
+      "port": "mata_herbacia_o_llenyosa",
+      "color_floracio": "groc"
+    },
+    {
+      "id": "ononis-ramosissima",
+      "nom_comu": "Alorens",
+      "nom_cientific": "Ononis ramosissima",
+      "sinonims": [],
+      "grup": "Dunes i savinar",
+      "illes": [
+        "Mallorca",
+        "Eivissa",
+        "Formentera"
+      ],
+      "endemisme": false,
+      "mida_adulta_m": {
+        "alcada": [
+          0.2,
+          0.5
+        ],
+        "amplada": [
+          0.3,
+          0.6
+        ]
+      },
+      "floracio": [
+        "primavera",
+        "estiu"
+      ],
+      "fructificacio": [
+        "tardor"
+      ],
+      "tipus_fruit": "sec",
+      "necessitats_hidriques": "baixes",
+      "insolacio": "directe",
+      "tolerancia_salinitat": "tolerant",
+      "pol_linitzadors": {
+        "nectar": "mitja",
+        "pol·len": null,
+        "productora_melats": false
+      },
+      "atreu_papallones": false,
+      "atreu_ocells": false,
+      "resistent_herbivors": false,
+      "apte_bardissa": false,
+      "espinos": false,
+      "aromatic": false,
+      "parts_comestibles": [],
+      "toxicitat": false,
+      "infusio_condiment": false,
+      "descripcio": null,
+      "habitat": "Dunes i savinar",
+      "usos_jardineria": [],
+      "imatges": [
+        {
+          "id": "ononis-ramosissima-planta_sencera",
+          "vista": "planta_sencera",
+          "nom_vista": "Planta sencera",
+          "url": null,
+          "estil": "natura",
+          "principal": true,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        },
+        {
+          "id": "ononis-ramosissima-flors",
+          "vista": "flors",
+          "nom_vista": "Flors",
+          "url": null,
+          "estil": "botanic_fons_neutre",
+          "principal": false,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        },
+        {
+          "id": "ononis-ramosissima-fulles",
+          "vista": "fulles",
+          "nom_vista": "Fulles",
+          "url": null,
+          "estil": "botanic_fons_neutre",
+          "principal": false,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        }
+      ],
+      "estat_fitxa": "completada_des_de_taula",
+      "font": {
+        "document": "Catàleg de plantes autòctones del viver forestal de les Illes Balears",
+        "pagina_impresa": null,
+        "url": "https://xarxaforestal.org/wp-content/uploads/2023/06/Cataleg-Menut_version-web.pdf"
+      },
+      "port": "mata_herbacia_o_llenyosa",
+      "color_floracio": "groc"
+    },
+    {
+      "id": "pancratium-maritimum",
+      "nom_comu": "Lliri de mar",
+      "nom_cientific": "Pancratium maritimum",
+      "sinonims": [],
+      "grup": "Dunes i savinar",
+      "illes": [
+        "Mallorca",
+        "Menorca",
+        "Eivissa",
+        "Formentera",
+        "Cabrera"
+      ],
+      "endemisme": false,
+      "mida_adulta_m": {
+        "alcada": [
+          0.3,
+          0.4
+        ],
+        "amplada": [
+          0.3,
+          0.4
+        ]
+      },
+      "floracio": [
+        "estiu"
+      ],
+      "fructificacio": [
+        "tardor"
+      ],
+      "tipus_fruit": "sec",
+      "necessitats_hidriques": "baixes",
+      "insolacio": "directe",
+      "tolerancia_salinitat": "molt tolerant",
+      "pol_linitzadors": {
+        "nectar": "baix",
+        "pol·len": null,
+        "productora_melats": false
+      },
+      "atreu_papallones": false,
+      "atreu_ocells": false,
+      "resistent_herbivors": false,
+      "apte_bardissa": false,
+      "espinos": false,
+      "aromatic": false,
+      "parts_comestibles": [],
+      "toxicitat": false,
+      "infusio_condiment": false,
+      "descripcio": null,
+      "habitat": "Dunes i savinar",
+      "usos_jardineria": [],
+      "imatges": [
+        {
+          "id": "pancratium-maritimum-planta_sencera",
+          "vista": "planta_sencera",
+          "nom_vista": "Planta sencera",
+          "url": null,
+          "estil": "natura",
+          "principal": true,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        },
+        {
+          "id": "pancratium-maritimum-flors",
+          "vista": "flors",
+          "nom_vista": "Flors",
+          "url": null,
+          "estil": "botanic_fons_neutre",
+          "principal": false,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        },
+        {
+          "id": "pancratium-maritimum-fulles",
+          "vista": "fulles",
+          "nom_vista": "Fulles",
+          "url": null,
+          "estil": "botanic_fons_neutre",
+          "principal": false,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        }
+      ],
+      "estat_fitxa": "completada_des_de_taula",
+      "font": {
+        "document": "Catàleg de plantes autòctones del viver forestal de les Illes Balears",
+        "pagina_impresa": null,
+        "url": "https://xarxaforestal.org/wp-content/uploads/2023/06/Cataleg-Menut_version-web.pdf"
+      },
+      "port": "mata_herbacia_o_llenyosa",
+      "color_floracio": "blanc"
+    },
+    {
+      "id": "teucrium-dunense",
+      "nom_comu": "Herba de Sant Ponç de platja",
+      "nom_cientific": "Teucrium dunense",
+      "sinonims": [],
+      "grup": "Dunes i savinar",
+      "illes": [
+        "Mallorca"
+      ],
+      "endemisme": false,
+      "mida_adulta_m": {
+        "alcada": [
+          0.2,
+          0.4
+        ],
+        "amplada": [
+          0.2,
+          0.6
+        ]
+      },
+      "floracio": [
+        "primavera"
+      ],
+      "fructificacio": [
+        "estiu"
+      ],
+      "tipus_fruit": "sec",
+      "necessitats_hidriques": "baixes",
+      "insolacio": "directe",
+      "tolerancia_salinitat": "tolerant",
+      "pol_linitzadors": {
+        "nectar": "elevat",
+        "pol·len": "baix",
+        "productora_melats": false
+      },
+      "atreu_papallones": true,
+      "atreu_ocells": false,
+      "resistent_herbivors": true,
+      "apte_bardissa": false,
+      "espinos": false,
+      "aromatic": true,
+      "parts_comestibles": [],
+      "toxicitat": false,
+      "infusio_condiment": false,
+      "descripcio": null,
+      "habitat": "Dunes i savinar",
+      "usos_jardineria": [],
+      "imatges": [
+        {
+          "id": "teucrium-dunense-planta_sencera",
+          "vista": "planta_sencera",
+          "nom_vista": "Planta sencera",
+          "url": null,
+          "estil": "natura",
+          "principal": true,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        },
+        {
+          "id": "teucrium-dunense-flors",
+          "vista": "flors",
+          "nom_vista": "Flors",
+          "url": null,
+          "estil": "botanic_fons_neutre",
+          "principal": false,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        },
+        {
+          "id": "teucrium-dunense-fulles",
+          "vista": "fulles",
+          "nom_vista": "Fulles",
+          "url": null,
+          "estil": "botanic_fons_neutre",
+          "principal": false,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        }
+      ],
+      "estat_fitxa": "completada_des_de_taula",
+      "font": {
+        "document": "Catàleg de plantes autòctones del viver forestal de les Illes Balears",
+        "pagina_impresa": null,
+        "url": "https://xarxaforestal.org/wp-content/uploads/2023/06/Cataleg-Menut_version-web.pdf"
+      },
+      "port": "mata_herbacia_o_llenyosa",
+      "color_floracio": "blanc"
+    },
+    {
+      "id": "thinopyrum-junceum",
+      "nom_comu": "Fenàs de platja",
+      "nom_cientific": "Thinopyrum junceum",
+      "sinonims": [
+        "Elymus farctus"
+      ],
+      "grup": "Dunes i savinar",
+      "illes": [
+        "Mallorca",
+        "Menorca",
+        "Eivissa",
+        "Formentera"
+      ],
+      "endemisme": false,
+      "mida_adulta_m": {
+        "alcada": [
+          0.3,
+          0.5
+        ],
+        "amplada": [
+          0.5,
+          0.8
+        ]
+      },
+      "floracio": [
+        "primavera"
+      ],
+      "fructificacio": [
+        "estiu"
+      ],
+      "tipus_fruit": "sec",
+      "necessitats_hidriques": "baixes",
+      "insolacio": "directe",
+      "tolerancia_salinitat": "molt tolerant",
+      "pol_linitzadors": {
+        "nectar": null,
+        "pol·len": null,
+        "productora_melats": false
+      },
+      "atreu_papallones": false,
+      "atreu_ocells": false,
+      "resistent_herbivors": false,
+      "apte_bardissa": false,
+      "espinos": false,
+      "aromatic": false,
+      "parts_comestibles": [],
+      "toxicitat": false,
+      "infusio_condiment": false,
+      "descripcio": null,
+      "habitat": "Dunes i savinar",
+      "usos_jardineria": [],
+      "imatges": [
+        {
+          "id": "thinopyrum-junceum-planta_sencera",
+          "vista": "planta_sencera",
+          "nom_vista": "Planta sencera",
+          "url": null,
+          "estil": "natura",
+          "principal": true,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        },
+        {
+          "id": "thinopyrum-junceum-flors",
+          "vista": "flors",
+          "nom_vista": "Flors",
+          "url": null,
+          "estil": "botanic_fons_neutre",
+          "principal": false,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        },
+        {
+          "id": "thinopyrum-junceum-fulles",
+          "vista": "fulles",
+          "nom_vista": "Fulles",
+          "url": null,
+          "estil": "botanic_fons_neutre",
+          "principal": false,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        }
+      ],
+      "estat_fitxa": "completada_des_de_taula",
+      "font": {
+        "document": "Catàleg de plantes autòctones del viver forestal de les Illes Balears",
+        "pagina_impresa": null,
+        "url": "https://xarxaforestal.org/wp-content/uploads/2023/06/Cataleg-Menut_version-web.pdf"
+      },
+      "port": "arbust",
+      "color_floracio": "crema"
+    },
+    {
+      "id": "thymelaea-velutina",
+      "nom_comu": "Peu de milà",
+      "nom_cientific": "Thymelaea velutina",
+      "sinonims": [],
+      "grup": "Dunes i savinar",
+      "illes": [
+        "Mallorca",
+        "Menorca"
+      ],
+      "endemisme": true,
+      "mida_adulta_m": {
+        "alcada": [
+          0.4,
+          1
+        ],
+        "amplada": [
+          0.4,
+          1
+        ]
+      },
+      "floracio": [
+        "primavera",
+        "estiu"
+      ],
+      "fructificacio": [
+        "estiu",
+        "tardor"
+      ],
+      "tipus_fruit": "carnós",
+      "necessitats_hidriques": "baixes",
+      "insolacio": "directe",
+      "tolerancia_salinitat": "tolerant",
+      "pol_linitzadors": {
+        "nectar": "baix",
+        "pol·len": null,
+        "productora_melats": false
+      },
+      "atreu_papallones": false,
+      "atreu_ocells": false,
+      "resistent_herbivors": true,
+      "apte_bardissa": false,
+      "espinos": false,
+      "aromatic": false,
+      "parts_comestibles": [],
+      "toxicitat": false,
+      "infusio_condiment": false,
+      "descripcio": null,
+      "habitat": "Dunes i savinar",
+      "usos_jardineria": [],
+      "imatges": [
+        {
+          "id": "thymelaea-velutina-planta_sencera",
+          "vista": "planta_sencera",
+          "nom_vista": "Planta sencera",
+          "url": null,
+          "estil": "natura",
+          "principal": true,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        },
+        {
+          "id": "thymelaea-velutina-flors",
+          "vista": "flors",
+          "nom_vista": "Flors",
+          "url": null,
+          "estil": "botanic_fons_neutre",
+          "principal": false,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        },
+        {
+          "id": "thymelaea-velutina-fulles",
+          "vista": "fulles",
+          "nom_vista": "Fulles",
+          "url": null,
+          "estil": "botanic_fons_neutre",
+          "principal": false,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        }
+      ],
+      "estat_fitxa": "completada_des_de_taula",
+      "font": {
+        "document": "Catàleg de plantes autòctones del viver forestal de les Illes Balears",
+        "pagina_impresa": null,
+        "url": "https://xarxaforestal.org/wp-content/uploads/2023/06/Cataleg-Menut_version-web.pdf"
+      },
+      "port": "mata_herbacia_o_llenyosa",
+      "color_floracio": "groc"
+    },
+    {
+      "id": "achillea-maritima",
+      "nom_comu": "Herba de Trucadors",
+      "nom_cientific": "Achillea maritima",
+      "sinonims": [],
+      "grup": "Dunes i savinar",
+      "illes": [
+        "Mallorca",
+        "Menorca",
+        "Eivissa",
+        "Formentera"
+      ],
+      "endemisme": false,
+      "mida_adulta_m": {
+        "alcada": [
+          0.3,
+          0.5
+        ],
+        "amplada": [
+          0.5,
+          1
+        ]
+      },
+      "floracio": [
+        "primavera"
+      ],
+      "fructificacio": [
+        "estiu"
+      ],
+      "tipus_fruit": "sec",
+      "necessitats_hidriques": "baixes",
+      "insolacio": "directe",
+      "tolerancia_salinitat": "molt tolerant",
+      "pol_linitzadors": {
+        "nectar": "mitja",
+        "pol·len": "baix",
+        "productora_melats": false
+      },
+      "atreu_papallones": false,
+      "atreu_ocells": false,
+      "resistent_herbivors": false,
+      "apte_bardissa": false,
+      "espinos": false,
+      "aromatic": true,
+      "parts_comestibles": [],
+      "toxicitat": false,
+      "infusio_condiment": true,
+      "descripcio": null,
+      "habitat": "Dunes i savinar",
+      "usos_jardineria": [],
+      "imatges": [
+        {
+          "id": "achillea-maritima-planta_sencera",
+          "vista": "planta_sencera",
+          "nom_vista": "Planta sencera",
+          "url": null,
+          "estil": "natura",
+          "principal": true,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        },
+        {
+          "id": "achillea-maritima-flors",
+          "vista": "flors",
+          "nom_vista": "Flors",
+          "url": null,
+          "estil": "botanic_fons_neutre",
+          "principal": false,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        },
+        {
+          "id": "achillea-maritima-fulles",
+          "vista": "fulles",
+          "nom_vista": "Fulles",
+          "url": null,
+          "estil": "botanic_fons_neutre",
+          "principal": false,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        }
+      ],
+      "estat_fitxa": "completada_des_de_taula",
+      "font": {
+        "document": "Catàleg de plantes autòctones del viver forestal de les Illes Balears",
+        "pagina_impresa": null,
+        "url": "https://xarxaforestal.org/wp-content/uploads/2023/06/Cataleg-Menut_version-web.pdf"
+      },
+      "port": "mata_herbacia_o_llenyosa",
+      "color_floracio": "groc"
+    },
+    {
+      "id": "ammophila-arenaria",
+      "nom_comu": "Borró",
+      "nom_cientific": "Ammophila arenaria",
+      "sinonims": [],
+      "grup": "Dunes i savinar",
+      "illes": [
+        "Mallorca",
+        "Menorca",
+        "Eivissa",
+        "Formentera"
+      ],
+      "endemisme": false,
+      "mida_adulta_m": {
+        "alcada": [
+          0.5,
+          1
+        ],
+        "amplada": [
+          0.8,
+          1
+        ]
+      },
+      "floracio": [
+        "primavera",
+        "estiu"
+      ],
+      "fructificacio": [
+        "estiu"
+      ],
+      "tipus_fruit": "sec",
+      "necessitats_hidriques": "baixes",
+      "insolacio": "directe",
+      "tolerancia_salinitat": "tolerant",
+      "pol_linitzadors": {
+        "nectar": null,
+        "pol·len": null,
+        "productora_melats": false
+      },
+      "atreu_papallones": false,
+      "atreu_ocells": false,
+      "resistent_herbivors": false,
+      "apte_bardissa": false,
+      "espinos": false,
+      "aromatic": false,
+      "parts_comestibles": [],
+      "toxicitat": false,
+      "infusio_condiment": false,
+      "descripcio": null,
+      "habitat": "Dunes i savinar",
+      "usos_jardineria": [],
+      "imatges": [
+        {
+          "id": "ammophila-arenaria-planta_sencera",
+          "vista": "planta_sencera",
+          "nom_vista": "Planta sencera",
+          "url": null,
+          "estil": "natura",
+          "principal": true,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        },
+        {
+          "id": "ammophila-arenaria-flors",
+          "vista": "flors",
+          "nom_vista": "Flors",
+          "url": null,
+          "estil": "botanic_fons_neutre",
+          "principal": false,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        },
+        {
+          "id": "ammophila-arenaria-fulles",
+          "vista": "fulles",
+          "nom_vista": "Fulles",
+          "url": null,
+          "estil": "botanic_fons_neutre",
+          "principal": false,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        }
+      ],
+      "estat_fitxa": "completada_des_de_taula",
+      "font": {
+        "document": "Catàleg de plantes autòctones del viver forestal de les Illes Balears",
+        "pagina_impresa": null,
+        "url": "https://xarxaforestal.org/wp-content/uploads/2023/06/Cataleg-Menut_version-web.pdf"
+      },
+      "port": "mata_herbacia_o_llenyosa",
+      "color_floracio": "crema"
+    },
+    {
+      "id": "calystegia-soldanella",
+      "nom_comu": "Campaneta de la mar",
+      "nom_cientific": "Calystegia soldanella",
+      "sinonims": [],
+      "grup": "Dunes i savinar",
+      "illes": [
+        "Mallorca",
+        "Menorca",
+        "Eivissa",
+        "Formentera"
+      ],
+      "endemisme": false,
+      "mida_adulta_m": {
+        "alcada": [
+          0.1,
+          0.2
+        ],
+        "amplada": [
+          0.2,
+          0.4
+        ]
+      },
+      "floracio": [
+        "estiu"
+      ],
+      "fructificacio": [
+        "tardor"
+      ],
+      "tipus_fruit": "sec",
+      "necessitats_hidriques": "baixes",
+      "insolacio": "directe",
+      "tolerancia_salinitat": "molt tolerant",
+      "pol_linitzadors": {
+        "nectar": null,
+        "pol·len": null,
+        "productora_melats": false
+      },
+      "atreu_papallones": true,
+      "atreu_ocells": false,
+      "resistent_herbivors": false,
+      "apte_bardissa": false,
+      "espinos": false,
+      "aromatic": false,
+      "parts_comestibles": [],
+      "toxicitat": false,
+      "infusio_condiment": false,
+      "descripcio": null,
+      "habitat": "Dunes i savinar",
+      "usos_jardineria": [],
+      "imatges": [
+        {
+          "id": "calystegia-soldanella-planta_sencera",
+          "vista": "planta_sencera",
+          "nom_vista": "Planta sencera",
+          "url": null,
+          "estil": "natura",
+          "principal": true,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        },
+        {
+          "id": "calystegia-soldanella-flors",
+          "vista": "flors",
+          "nom_vista": "Flors",
+          "url": null,
+          "estil": "botanic_fons_neutre",
+          "principal": false,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        },
+        {
+          "id": "calystegia-soldanella-fulles",
+          "vista": "fulles",
+          "nom_vista": "Fulles",
+          "url": null,
+          "estil": "botanic_fons_neutre",
+          "principal": false,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        }
+      ],
+      "estat_fitxa": "completada_des_de_taula",
+      "font": {
+        "document": "Catàleg de plantes autòctones del viver forestal de les Illes Balears",
+        "pagina_impresa": null,
+        "url": "https://xarxaforestal.org/wp-content/uploads/2023/06/Cataleg-Menut_version-web.pdf"
+      },
+      "port": "mata_herbacia_o_llenyosa",
+      "color_floracio": "rosa"
+    },
+    {
+      "id": "cistus-clusii",
+      "nom_comu": "Romaní mascle",
+      "nom_cientific": "Cistus clusii",
+      "sinonims": [],
+      "grup": "Dunes i savinar",
+      "illes": [
+        "Mallorca",
+        "Eivissa",
+        "Formentera"
+      ],
+      "endemisme": false,
+      "mida_adulta_m": {
+        "alcada": [
+          0.3,
+          0.5
+        ],
+        "amplada": [
+          0.3,
+          0.4
+        ]
+      },
+      "floracio": [
+        "primavera"
+      ],
+      "fructificacio": [
+        "estiu"
+      ],
+      "tipus_fruit": "sec",
+      "necessitats_hidriques": "baixes",
+      "insolacio": "directe",
+      "tolerancia_salinitat": null,
+      "pol_linitzadors": {
+        "nectar": null,
+        "pol·len": "elevat",
+        "productora_melats": false
+      },
+      "atreu_papallones": false,
+      "atreu_ocells": false,
+      "resistent_herbivors": true,
+      "apte_bardissa": false,
+      "espinos": false,
+      "aromatic": false,
+      "parts_comestibles": [],
+      "toxicitat": false,
+      "infusio_condiment": false,
+      "descripcio": null,
+      "habitat": "Dunes i savinar",
+      "usos_jardineria": [],
+      "imatges": [
+        {
+          "id": "cistus-clusii-planta_sencera",
+          "vista": "planta_sencera",
+          "nom_vista": "Planta sencera",
+          "url": null,
+          "estil": "natura",
+          "principal": true,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        },
+        {
+          "id": "cistus-clusii-flors",
+          "vista": "flors",
+          "nom_vista": "Flors",
+          "url": null,
+          "estil": "botanic_fons_neutre",
+          "principal": false,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        },
+        {
+          "id": "cistus-clusii-fulles",
+          "vista": "fulles",
+          "nom_vista": "Fulles",
+          "url": null,
+          "estil": "botanic_fons_neutre",
+          "principal": false,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        }
+      ],
+      "estat_fitxa": "completada_des_de_taula",
+      "font": {
+        "document": "Catàleg de plantes autòctones del viver forestal de les Illes Balears",
+        "pagina_impresa": null,
+        "url": "https://xarxaforestal.org/wp-content/uploads/2023/06/Cataleg-Menut_version-web.pdf"
+      },
+      "port": "arbust",
+      "color_floracio": "blanc"
+    },
+    {
+      "id": "eryngium-maritimum",
+      "nom_comu": "Card marí",
+      "nom_cientific": "Eryngium maritimum",
+      "sinonims": [],
+      "grup": "Dunes i savinar",
+      "illes": [
+        "Mallorca",
+        "Menorca",
+        "Eivissa",
+        "Formentera",
+        "Cabrera"
+      ],
+      "endemisme": false,
+      "mida_adulta_m": {
+        "alcada": [
+          0.4,
+          0.6
+        ],
+        "amplada": [
+          0.4,
+          0.6
+        ]
+      },
+      "floracio": [
+        "estiu"
+      ],
+      "fructificacio": [
+        "tardor"
+      ],
+      "tipus_fruit": "sec",
+      "necessitats_hidriques": "baixes",
+      "insolacio": "directe",
+      "tolerancia_salinitat": "molt tolerant",
+      "pol_linitzadors": {
+        "nectar": "mitja",
+        "pol·len": "baix",
+        "productora_melats": false
+      },
+      "atreu_papallones": true,
+      "atreu_ocells": false,
+      "resistent_herbivors": true,
+      "apte_bardissa": false,
+      "espinos": true,
+      "aromatic": false,
+      "parts_comestibles": [],
+      "toxicitat": false,
+      "infusio_condiment": false,
+      "descripcio": null,
+      "habitat": "Dunes i savinar",
+      "usos_jardineria": [],
+      "imatges": [
+        {
+          "id": "eryngium-maritimum-planta_sencera",
+          "vista": "planta_sencera",
+          "nom_vista": "Planta sencera",
+          "url": null,
+          "estil": "natura",
+          "principal": true,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        },
+        {
+          "id": "eryngium-maritimum-flors",
+          "vista": "flors",
+          "nom_vista": "Flors",
+          "url": null,
+          "estil": "botanic_fons_neutre",
+          "principal": false,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        },
+        {
+          "id": "eryngium-maritimum-fulles",
+          "vista": "fulles",
+          "nom_vista": "Fulles",
+          "url": null,
+          "estil": "botanic_fons_neutre",
+          "principal": false,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        }
+      ],
+      "estat_fitxa": "completada_des_de_taula",
+      "font": {
+        "document": "Catàleg de plantes autòctones del viver forestal de les Illes Balears",
+        "pagina_impresa": null,
+        "url": "https://xarxaforestal.org/wp-content/uploads/2023/06/Cataleg-Menut_version-web.pdf"
+      },
+      "port": "arbust",
+      "color_floracio": "blau violaci"
+    },
+    {
+      "id": "glaucium-flavum",
+      "nom_comu": "Cascal marí",
+      "nom_cientific": "Glaucium flavum",
+      "sinonims": [],
+      "grup": "Dunes i savinar",
+      "illes": [
+        "Mallorca",
+        "Menorca",
+        "Eivissa",
+        "Formentera",
+        "Cabrera"
+      ],
+      "endemisme": false,
+      "mida_adulta_m": {
+        "alcada": [
+          0.3,
+          0.7
+        ],
+        "amplada": [
+          0.4,
+          0.6
+        ]
+      },
+      "floracio": [
+        "primavera",
+        "estiu"
+      ],
+      "fructificacio": [
+        "estiu"
+      ],
+      "tipus_fruit": "sec",
+      "necessitats_hidriques": "baixes",
+      "insolacio": "directe",
+      "tolerancia_salinitat": "molt tolerant",
+      "pol_linitzadors": {
+        "nectar": null,
+        "pol·len": "mitja",
+        "productora_melats": false
+      },
+      "atreu_papallones": false,
+      "atreu_ocells": false,
+      "resistent_herbivors": true,
+      "apte_bardissa": false,
+      "espinos": false,
+      "aromatic": false,
+      "parts_comestibles": [],
+      "toxicitat": false,
+      "infusio_condiment": false,
+      "descripcio": null,
+      "habitat": "Dunes i savinar",
+      "usos_jardineria": [],
+      "imatges": [
+        {
+          "id": "glaucium-flavum-planta_sencera",
+          "vista": "planta_sencera",
+          "nom_vista": "Planta sencera",
+          "url": null,
+          "estil": "natura",
+          "principal": true,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        },
+        {
+          "id": "glaucium-flavum-flors",
+          "vista": "flors",
+          "nom_vista": "Flors",
+          "url": null,
+          "estil": "botanic_fons_neutre",
+          "principal": false,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        },
+        {
+          "id": "glaucium-flavum-fulles",
+          "vista": "fulles",
+          "nom_vista": "Fulles",
+          "url": null,
+          "estil": "botanic_fons_neutre",
+          "principal": false,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        }
+      ],
+      "estat_fitxa": "completada_des_de_taula",
+      "font": {
+        "document": "Catàleg de plantes autòctones del viver forestal de les Illes Balears",
+        "pagina_impresa": null,
+        "url": "https://xarxaforestal.org/wp-content/uploads/2023/06/Cataleg-Menut_version-web.pdf"
+      },
+      "port": "mata_herbacia_o_llenyosa",
+      "color_floracio": "groc"
+    },
+    {
+      "id": "helianthemum-caput-felis",
+      "nom_comu": "Caps de moix",
+      "nom_cientific": "Helianthemum caput-felis",
+      "sinonims": [],
+      "grup": "Dunes i savinar",
+      "illes": [
+        "Mallorca",
+        "Eivissa"
+      ],
+      "endemisme": false,
+      "mida_adulta_m": {
+        "alcada": [
+          0.2,
+          0.5
+        ],
+        "amplada": [
+          0.3,
+          0.6
+        ]
+      },
+      "floracio": [
+        "primavera",
+        "hivern"
+      ],
+      "fructificacio": [
+        "estiu"
+      ],
+      "tipus_fruit": "sec",
+      "necessitats_hidriques": "baixes",
+      "insolacio": "directe",
+      "tolerancia_salinitat": "tolerant",
+      "pol_linitzadors": {
+        "nectar": null,
+        "pol·len": "elevat",
+        "productora_melats": false
+      },
+      "atreu_papallones": false,
+      "atreu_ocells": false,
+      "resistent_herbivors": false,
+      "apte_bardissa": false,
+      "espinos": false,
+      "aromatic": false,
+      "parts_comestibles": [],
+      "toxicitat": false,
+      "infusio_condiment": false,
+      "descripcio": null,
+      "habitat": "Dunes i savinar",
+      "usos_jardineria": [],
+      "imatges": [
+        {
+          "id": "helianthemum-caput-felis-planta_sencera",
+          "vista": "planta_sencera",
+          "nom_vista": "Planta sencera",
+          "url": null,
+          "estil": "natura",
+          "principal": true,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        },
+        {
+          "id": "helianthemum-caput-felis-flors",
+          "vista": "flors",
+          "nom_vista": "Flors",
+          "url": null,
+          "estil": "botanic_fons_neutre",
+          "principal": false,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        },
+        {
+          "id": "helianthemum-caput-felis-fulles",
+          "vista": "fulles",
+          "nom_vista": "Fulles",
+          "url": null,
+          "estil": "botanic_fons_neutre",
+          "principal": false,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        }
+      ],
+      "estat_fitxa": "completada_des_de_taula",
+      "font": {
+        "document": "Catàleg de plantes autòctones del viver forestal de les Illes Balears",
+        "pagina_impresa": null,
+        "url": "https://xarxaforestal.org/wp-content/uploads/2023/06/Cataleg-Menut_version-web.pdf"
+      },
+      "port": "mata_herbacia_o_llenyosa",
+      "color_floracio": "groc"
+    },
+    {
+      "id": "helichrysum-stoechas",
+      "nom_comu": "Flor de tot l’any",
+      "nom_cientific": "Helichrysum stoechas",
+      "sinonims": [],
+      "grup": "Dunes i savinar",
+      "illes": [
+        "Mallorca",
+        "Menorca",
+        "Eivissa",
+        "Formentera",
+        "Cabrera",
+        "Dragonera"
+      ],
+      "endemisme": false,
+      "mida_adulta_m": {
+        "alcada": [
+          0.2,
+          0.5
+        ],
+        "amplada": [
+          0.3,
+          0.6
+        ]
+      },
+      "floracio": [
+        "primavera",
+        "estiu"
+      ],
+      "fructificacio": [
+        "tardor"
+      ],
+      "tipus_fruit": "sec",
+      "necessitats_hidriques": "baixes",
+      "insolacio": "directe",
+      "tolerancia_salinitat": "tolerant",
+      "pol_linitzadors": {
+        "nectar": null,
+        "pol·len": "mitja",
+        "productora_melats": false
+      },
+      "atreu_papallones": true,
+      "atreu_ocells": false,
+      "resistent_herbivors": true,
+      "apte_bardissa": false,
+      "espinos": false,
+      "aromatic": true,
+      "parts_comestibles": [],
+      "toxicitat": false,
+      "infusio_condiment": true,
+      "descripcio": null,
+      "habitat": "Dunes i savinar",
+      "usos_jardineria": [],
+      "imatges": [
+        {
+          "id": "helichrysum-stoechas-planta_sencera",
+          "vista": "planta_sencera",
+          "nom_vista": "Planta sencera",
+          "url": null,
+          "estil": "natura",
+          "principal": true,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        },
+        {
+          "id": "helichrysum-stoechas-flors",
+          "vista": "flors",
+          "nom_vista": "Flors",
+          "url": null,
+          "estil": "botanic_fons_neutre",
+          "principal": false,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        },
+        {
+          "id": "helichrysum-stoechas-fulles",
+          "vista": "fulles",
+          "nom_vista": "Fulles",
+          "url": null,
+          "estil": "botanic_fons_neutre",
+          "principal": false,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        }
+      ],
+      "estat_fitxa": "completada_des_de_taula",
+      "font": {
+        "document": "Catàleg de plantes autòctones del viver forestal de les Illes Balears",
+        "pagina_impresa": null,
+        "url": "https://xarxaforestal.org/wp-content/uploads/2023/06/Cataleg-Menut_version-web.pdf"
+      },
+      "port": "mata_herbacia_o_llenyosa",
+      "color_floracio": "groc"
+    },
+    {
+      "id": "juniperus-oxycedrus-subsp-macrocarpa",
+      "nom_comu": "Càdec",
+      "nom_cientific": "Juniperus oxycedrus subsp. macrocarpa",
+      "sinonims": [],
+      "grup": "Dunes i savinar",
+      "illes": [
+        "Mallorca"
+      ],
+      "endemisme": false,
+      "mida_adulta_m": {
+        "alcada": [
+          3,
+          4
+        ],
+        "amplada": [
+          2,
+          5
+        ]
+      },
+      "floracio": [
+        "primavera"
+      ],
+      "fructificacio": [
+        "tardor"
+      ],
+      "tipus_fruit": "carnós",
+      "necessitats_hidriques": "baixes",
+      "insolacio": "directe",
+      "tolerancia_salinitat": "tolerant",
+      "pol_linitzadors": {
+        "nectar": null,
+        "pol·len": null,
+        "productora_melats": false
+      },
+      "atreu_papallones": false,
+      "atreu_ocells": true,
+      "resistent_herbivors": true,
+      "apte_bardissa": false,
+      "espinos": false,
+      "aromatic": true,
+      "parts_comestibles": [],
+      "toxicitat": false,
+      "infusio_condiment": false,
+      "descripcio": null,
+      "habitat": "Dunes i savinar",
+      "usos_jardineria": [],
+      "imatges": [
+        {
+          "id": "juniperus-oxycedrus-subsp-macrocarpa-planta_sencera",
+          "vista": "planta_sencera",
+          "nom_vista": "Planta sencera",
+          "url": null,
+          "estil": "natura",
+          "principal": true,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        },
+        {
+          "id": "juniperus-oxycedrus-subsp-macrocarpa-flors",
+          "vista": "flors",
+          "nom_vista": "Flors",
+          "url": null,
+          "estil": "botanic_fons_neutre",
+          "principal": false,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        },
+        {
+          "id": "juniperus-oxycedrus-subsp-macrocarpa-fulles",
+          "vista": "fulles",
+          "nom_vista": "Fulles",
+          "url": null,
+          "estil": "botanic_fons_neutre",
+          "principal": false,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        }
+      ],
+      "estat_fitxa": "completada_des_de_taula",
+      "font": {
+        "document": "Catàleg de plantes autòctones del viver forestal de les Illes Balears",
+        "pagina_impresa": null,
+        "url": "https://xarxaforestal.org/wp-content/uploads/2023/06/Cataleg-Menut_version-web.pdf"
+      },
+      "port": "arbre",
+      "color_floracio": "ocre"
+    }
+  ],
+  "configuracio_imatges": {
+    "vistes_obligatories": [
+      "planta_sencera",
+      "flors",
+      "fulles"
+    ],
+    "estils_admesos": [
+      "natura",
+      "botanic_fons_neutre"
+    ],
+    "estil_per_defecte": {
+      "planta_sencera": "natura",
+      "flors": "botanic_fons_neutre",
+      "fulles": "botanic_fons_neutre"
+    },
+    "permetre_imatges_alternatives_per_vista": true,
+    "nota": "Les URL null indiquen que encara no s'ha incorporat cap fotografia."
+  }
+}

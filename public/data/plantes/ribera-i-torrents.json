@@ -1,0 +1,1376 @@
+{
+  "versio_esquema": "1.1.0",
+  "idioma": "ca",
+  "nom_catalog": "Catàleg de flora mediterrània de les Illes Balears",
+  "habitat": "Ribera i torrents",
+  "font_principal": "https://xarxaforestal.org/wp-content/uploads/2023/06/Cataleg-Menut_version-web.pdf",
+  "nota": "Espècies de Ribera i torrents transcrites de les dues taules facilitades. Els camps sense informació explícita es mantenen nuls o buits.",
+  "plantes": [
+    {
+      "id": "celtis-australis",
+      "nom_comu": "Lledoner",
+      "nom_cientific": "Celtis australis",
+      "sinonims": [],
+      "grup": "Ribera i torrents",
+      "illes": [
+        "Mallorca"
+      ],
+      "endemisme": false,
+      "mida_adulta_m": {
+        "alcada": [
+          20,
+          20
+        ],
+        "amplada": [
+          10,
+          20
+        ]
+      },
+      "floracio": [
+        "primavera"
+      ],
+      "fructificacio": [
+        "tardor",
+        "hivern"
+      ],
+      "tipus_fruit": "carnós",
+      "necessitats_hidriques": "mitjanes",
+      "insolacio": "directe",
+      "tolerancia_salinitat": null,
+      "pol_linitzadors": {
+        "nectar": null,
+        "pol·len": null,
+        "productora_melats": false
+      },
+      "atreu_papallones": false,
+      "atreu_ocells": true,
+      "resistent_herbivors": false,
+      "apte_bardissa": false,
+      "espinos": false,
+      "aromatic": false,
+      "parts_comestibles": [
+        "fruit"
+      ],
+      "toxicitat": false,
+      "infusio_condiment": false,
+      "descripcio": null,
+      "habitat": "Ribera i torrents",
+      "usos_jardineria": [],
+      "imatges": [
+        {
+          "id": "celtis-australis-planta_sencera",
+          "vista": "planta_sencera",
+          "nom_vista": "Planta sencera",
+          "url": null,
+          "estil": "natura",
+          "principal": true,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        },
+        {
+          "id": "celtis-australis-flors",
+          "vista": "flors",
+          "nom_vista": "Flors",
+          "url": null,
+          "estil": "botanic_fons_neutre",
+          "principal": false,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        },
+        {
+          "id": "celtis-australis-fulles",
+          "vista": "fulles",
+          "nom_vista": "Fulles",
+          "url": null,
+          "estil": "botanic_fons_neutre",
+          "principal": false,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        }
+      ],
+      "estat_fitxa": "completada_des_de_taula",
+      "font": {
+        "document": "Catàleg de plantes autòctones del viver forestal de les Illes Balears",
+        "pagina_impresa": null,
+        "url": "https://xarxaforestal.org/wp-content/uploads/2023/06/Cataleg-Menut_version-web.pdf"
+      },
+      "port": "arbre",
+      "color_floracio": "groc"
+    },
+    {
+      "id": "clematis-flammula",
+      "nom_comu": "Vidriella",
+      "nom_cientific": "Clematis flammula",
+      "sinonims": [],
+      "grup": "Ribera i torrents",
+      "illes": [
+        "Mallorca",
+        "Menorca",
+        "Eivissa"
+      ],
+      "endemisme": false,
+      "mida_adulta_m": {
+        "alcada": [
+          1,
+          2
+        ],
+        "amplada": [
+          2,
+          3
+        ]
+      },
+      "floracio": [
+        "estiu"
+      ],
+      "fructificacio": [
+        "tardor",
+        "hivern"
+      ],
+      "tipus_fruit": "sec",
+      "necessitats_hidriques": "mitjanes",
+      "insolacio": "directe",
+      "tolerancia_salinitat": null,
+      "pol_linitzadors": {
+        "nectar": null,
+        "pol·len": null,
+        "productora_melats": false
+      },
+      "atreu_papallones": false,
+      "atreu_ocells": false,
+      "resistent_herbivors": true,
+      "apte_bardissa": false,
+      "espinos": false,
+      "aromatic": false,
+      "parts_comestibles": [],
+      "toxicitat": false,
+      "infusio_condiment": false,
+      "descripcio": null,
+      "habitat": "Ribera i torrents",
+      "usos_jardineria": [],
+      "imatges": [
+        {
+          "id": "clematis-flammula-planta_sencera",
+          "vista": "planta_sencera",
+          "nom_vista": "Planta sencera",
+          "url": null,
+          "estil": "natura",
+          "principal": true,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        },
+        {
+          "id": "clematis-flammula-flors",
+          "vista": "flors",
+          "nom_vista": "Flors",
+          "url": null,
+          "estil": "botanic_fons_neutre",
+          "principal": false,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        },
+        {
+          "id": "clematis-flammula-fulles",
+          "vista": "fulles",
+          "nom_vista": "Fulles",
+          "url": null,
+          "estil": "botanic_fons_neutre",
+          "principal": false,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        }
+      ],
+      "estat_fitxa": "completada_des_de_taula",
+      "font": {
+        "document": "Catàleg de plantes autòctones del viver forestal de les Illes Balears",
+        "pagina_impresa": null,
+        "url": "https://xarxaforestal.org/wp-content/uploads/2023/06/Cataleg-Menut_version-web.pdf"
+      },
+      "port": "arbust",
+      "color_floracio": "blanc"
+    },
+    {
+      "id": "crataegus-monogyna",
+      "nom_comu": "Cirerer de pastor",
+      "nom_cientific": "Crataegus monogyna",
+      "sinonims": [],
+      "grup": "Ribera i torrents",
+      "illes": [
+        "Mallorca",
+        "Menorca"
+      ],
+      "endemisme": false,
+      "mida_adulta_m": {
+        "alcada": [
+          2,
+          5
+        ],
+        "amplada": [
+          1.5,
+          3
+        ]
+      },
+      "floracio": [
+        "primavera"
+      ],
+      "fructificacio": [
+        "tardor",
+        "hivern"
+      ],
+      "tipus_fruit": "carnós",
+      "necessitats_hidriques": "baixes",
+      "insolacio": "directe",
+      "tolerancia_salinitat": null,
+      "pol_linitzadors": {
+        "nectar": "mitja",
+        "pol·len": "mitja",
+        "productora_melats": false
+      },
+      "atreu_papallones": true,
+      "atreu_ocells": true,
+      "resistent_herbivors": false,
+      "apte_bardissa": true,
+      "espinos": true,
+      "aromatic": false,
+      "parts_comestibles": [
+        "fruit"
+      ],
+      "toxicitat": false,
+      "infusio_condiment": true,
+      "descripcio": null,
+      "habitat": "Ribera i torrents",
+      "usos_jardineria": [],
+      "imatges": [
+        {
+          "id": "crataegus-monogyna-planta_sencera",
+          "vista": "planta_sencera",
+          "nom_vista": "Planta sencera",
+          "url": null,
+          "estil": "natura",
+          "principal": true,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        },
+        {
+          "id": "crataegus-monogyna-flors",
+          "vista": "flors",
+          "nom_vista": "Flors",
+          "url": null,
+          "estil": "botanic_fons_neutre",
+          "principal": false,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        },
+        {
+          "id": "crataegus-monogyna-fulles",
+          "vista": "fulles",
+          "nom_vista": "Fulles",
+          "url": null,
+          "estil": "botanic_fons_neutre",
+          "principal": false,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        }
+      ],
+      "estat_fitxa": "completada_des_de_taula",
+      "font": {
+        "document": "Catàleg de plantes autòctones del viver forestal de les Illes Balears",
+        "pagina_impresa": null,
+        "url": "https://xarxaforestal.org/wp-content/uploads/2023/06/Cataleg-Menut_version-web.pdf"
+      },
+      "port": "arbust",
+      "color_floracio": "blanc"
+    },
+    {
+      "id": "fraxinus-angustifolia",
+      "nom_comu": "Fleix",
+      "nom_cientific": "Fraxinus angustifolia",
+      "sinonims": [],
+      "grup": "Ribera i torrents",
+      "illes": [
+        "Mallorca"
+      ],
+      "endemisme": false,
+      "mida_adulta_m": {
+        "alcada": [
+          10,
+          20
+        ],
+        "amplada": [
+          4,
+          6
+        ]
+      },
+      "floracio": [
+        "primavera"
+      ],
+      "fructificacio": [
+        "tardor"
+      ],
+      "tipus_fruit": "sec",
+      "necessitats_hidriques": "mitjanes",
+      "insolacio": "directe",
+      "tolerancia_salinitat": null,
+      "pol_linitzadors": {
+        "nectar": null,
+        "pol·len": null,
+        "productora_melats": false
+      },
+      "atreu_papallones": false,
+      "atreu_ocells": false,
+      "resistent_herbivors": false,
+      "apte_bardissa": false,
+      "espinos": false,
+      "aromatic": false,
+      "parts_comestibles": [],
+      "toxicitat": false,
+      "infusio_condiment": false,
+      "descripcio": null,
+      "habitat": "Ribera i torrents",
+      "usos_jardineria": [],
+      "imatges": [
+        {
+          "id": "fraxinus-angustifolia-planta_sencera",
+          "vista": "planta_sencera",
+          "nom_vista": "Planta sencera",
+          "url": null,
+          "estil": "natura",
+          "principal": true,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        },
+        {
+          "id": "fraxinus-angustifolia-flors",
+          "vista": "flors",
+          "nom_vista": "Flors",
+          "url": null,
+          "estil": "botanic_fons_neutre",
+          "principal": false,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        },
+        {
+          "id": "fraxinus-angustifolia-fulles",
+          "vista": "fulles",
+          "nom_vista": "Fulles",
+          "url": null,
+          "estil": "botanic_fons_neutre",
+          "principal": false,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        }
+      ],
+      "estat_fitxa": "completada_des_de_taula",
+      "font": {
+        "document": "Catàleg de plantes autòctones del viver forestal de les Illes Balears",
+        "pagina_impresa": null,
+        "url": "https://xarxaforestal.org/wp-content/uploads/2023/06/Cataleg-Menut_version-web.pdf"
+      },
+      "port": "arbre",
+      "color_floracio": "groc"
+    },
+    {
+      "id": "hypericum-perforatum",
+      "nom_comu": "Herba de Sant Joan",
+      "nom_cientific": "Hypericum perforatum",
+      "sinonims": [],
+      "grup": "Ribera i torrents",
+      "illes": [
+        "Mallorca",
+        "Menorca",
+        "Eivissa",
+        "Formentera"
+      ],
+      "endemisme": false,
+      "mida_adulta_m": {
+        "alcada": [
+          0.2,
+          0.5
+        ],
+        "amplada": [
+          0.3,
+          0.5
+        ]
+      },
+      "floracio": [
+        "primavera",
+        "estiu"
+      ],
+      "fructificacio": [
+        "estiu"
+      ],
+      "tipus_fruit": "sec",
+      "necessitats_hidriques": "elevades",
+      "insolacio": "directe",
+      "tolerancia_salinitat": null,
+      "pol_linitzadors": {
+        "nectar": null,
+        "pol·len": "mitja",
+        "productora_melats": false
+      },
+      "atreu_papallones": false,
+      "atreu_ocells": false,
+      "resistent_herbivors": true,
+      "apte_bardissa": false,
+      "espinos": false,
+      "aromatic": false,
+      "parts_comestibles": [],
+      "toxicitat": false,
+      "infusio_condiment": true,
+      "descripcio": null,
+      "habitat": "Ribera i torrents",
+      "usos_jardineria": [],
+      "imatges": [
+        {
+          "id": "hypericum-perforatum-planta_sencera",
+          "vista": "planta_sencera",
+          "nom_vista": "Planta sencera",
+          "url": null,
+          "estil": "natura",
+          "principal": true,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        },
+        {
+          "id": "hypericum-perforatum-flors",
+          "vista": "flors",
+          "nom_vista": "Flors",
+          "url": null,
+          "estil": "botanic_fons_neutre",
+          "principal": false,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        },
+        {
+          "id": "hypericum-perforatum-fulles",
+          "vista": "fulles",
+          "nom_vista": "Fulles",
+          "url": null,
+          "estil": "botanic_fons_neutre",
+          "principal": false,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        }
+      ],
+      "estat_fitxa": "completada_des_de_taula",
+      "font": {
+        "document": "Catàleg de plantes autòctones del viver forestal de les Illes Balears",
+        "pagina_impresa": null,
+        "url": "https://xarxaforestal.org/wp-content/uploads/2023/06/Cataleg-Menut_version-web.pdf"
+      },
+      "port": "mata_herbacia_o_llenyosa",
+      "color_floracio": "groc"
+    },
+    {
+      "id": "laurus-nobilis",
+      "nom_comu": "Llorer",
+      "nom_cientific": "Laurus nobilis",
+      "sinonims": [],
+      "grup": "Ribera i torrents",
+      "illes": [
+        "Mallorca",
+        "Menorca",
+        "Eivissa"
+      ],
+      "endemisme": false,
+      "mida_adulta_m": {
+        "alcada": [
+          5,
+          10
+        ],
+        "amplada": [
+          2,
+          4
+        ]
+      },
+      "floracio": [
+        "primavera",
+        "hivern"
+      ],
+      "fructificacio": [
+        "tardor"
+      ],
+      "tipus_fruit": "carnós",
+      "necessitats_hidriques": "mitjanes",
+      "insolacio": "directe",
+      "tolerancia_salinitat": null,
+      "pol_linitzadors": {
+        "nectar": "mitja",
+        "pol·len": "baix",
+        "productora_melats": false
+      },
+      "atreu_papallones": false,
+      "atreu_ocells": true,
+      "resistent_herbivors": true,
+      "apte_bardissa": true,
+      "espinos": false,
+      "aromatic": true,
+      "parts_comestibles": [],
+      "toxicitat": false,
+      "infusio_condiment": true,
+      "descripcio": null,
+      "habitat": "Ribera i torrents",
+      "usos_jardineria": [],
+      "imatges": [
+        {
+          "id": "laurus-nobilis-planta_sencera",
+          "vista": "planta_sencera",
+          "nom_vista": "Planta sencera",
+          "url": null,
+          "estil": "natura",
+          "principal": true,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        },
+        {
+          "id": "laurus-nobilis-flors",
+          "vista": "flors",
+          "nom_vista": "Flors",
+          "url": null,
+          "estil": "botanic_fons_neutre",
+          "principal": false,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        },
+        {
+          "id": "laurus-nobilis-fulles",
+          "vista": "fulles",
+          "nom_vista": "Fulles",
+          "url": null,
+          "estil": "botanic_fons_neutre",
+          "principal": false,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        }
+      ],
+      "estat_fitxa": "completada_des_de_taula",
+      "font": {
+        "document": "Catàleg de plantes autòctones del viver forestal de les Illes Balears",
+        "pagina_impresa": null,
+        "url": "https://xarxaforestal.org/wp-content/uploads/2023/06/Cataleg-Menut_version-web.pdf"
+      },
+      "port": "arbre",
+      "color_floracio": "groc"
+    },
+    {
+      "id": "populus-alba",
+      "nom_comu": "Poll blanc",
+      "nom_cientific": "Populus alba",
+      "sinonims": [],
+      "grup": "Ribera i torrents",
+      "illes": [
+        "Mallorca",
+        "Menorca"
+      ],
+      "endemisme": false,
+      "mida_adulta_m": {
+        "alcada": [
+          10,
+          30
+        ],
+        "amplada": [
+          5,
+          10
+        ]
+      },
+      "floracio": [
+        "primavera"
+      ],
+      "fructificacio": [],
+      "tipus_fruit": "sec",
+      "necessitats_hidriques": "elevades",
+      "insolacio": "directe",
+      "tolerancia_salinitat": null,
+      "pol_linitzadors": {
+        "nectar": "mitja",
+        "pol·len": null,
+        "productora_melats": false
+      },
+      "atreu_papallones": false,
+      "atreu_ocells": false,
+      "resistent_herbivors": false,
+      "apte_bardissa": false,
+      "espinos": false,
+      "aromatic": false,
+      "parts_comestibles": [],
+      "toxicitat": false,
+      "infusio_condiment": false,
+      "descripcio": null,
+      "habitat": "Ribera i torrents",
+      "usos_jardineria": [],
+      "imatges": [
+        {
+          "id": "populus-alba-planta_sencera",
+          "vista": "planta_sencera",
+          "nom_vista": "Planta sencera",
+          "url": null,
+          "estil": "natura",
+          "principal": true,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        },
+        {
+          "id": "populus-alba-flors",
+          "vista": "flors",
+          "nom_vista": "Flors",
+          "url": null,
+          "estil": "botanic_fons_neutre",
+          "principal": false,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        },
+        {
+          "id": "populus-alba-fulles",
+          "vista": "fulles",
+          "nom_vista": "Fulles",
+          "url": null,
+          "estil": "botanic_fons_neutre",
+          "principal": false,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        }
+      ],
+      "estat_fitxa": "completada_des_de_taula",
+      "font": {
+        "document": "Catàleg de plantes autòctones del viver forestal de les Illes Balears",
+        "pagina_impresa": null,
+        "url": "https://xarxaforestal.org/wp-content/uploads/2023/06/Cataleg-Menut_version-web.pdf"
+      },
+      "port": "arbre",
+      "color_floracio": "verd"
+    },
+    {
+      "id": "populus-nigra",
+      "nom_comu": "Poll negre",
+      "nom_cientific": "Populus nigra",
+      "sinonims": [],
+      "grup": "Ribera i torrents",
+      "illes": [
+        "Mallorca",
+        "Menorca"
+      ],
+      "endemisme": false,
+      "mida_adulta_m": {
+        "alcada": [
+          20,
+          30
+        ],
+        "amplada": [
+          10,
+          20
+        ]
+      },
+      "floracio": [
+        "primavera"
+      ],
+      "fructificacio": [],
+      "tipus_fruit": "sec",
+      "necessitats_hidriques": "elevades",
+      "insolacio": "directe",
+      "tolerancia_salinitat": null,
+      "pol_linitzadors": {
+        "nectar": "mitja",
+        "pol·len": null,
+        "productora_melats": false
+      },
+      "atreu_papallones": false,
+      "atreu_ocells": false,
+      "resistent_herbivors": false,
+      "apte_bardissa": false,
+      "espinos": false,
+      "aromatic": false,
+      "parts_comestibles": [],
+      "toxicitat": false,
+      "infusio_condiment": false,
+      "descripcio": null,
+      "habitat": "Ribera i torrents",
+      "usos_jardineria": [],
+      "imatges": [
+        {
+          "id": "populus-nigra-planta_sencera",
+          "vista": "planta_sencera",
+          "nom_vista": "Planta sencera",
+          "url": null,
+          "estil": "natura",
+          "principal": true,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        },
+        {
+          "id": "populus-nigra-flors",
+          "vista": "flors",
+          "nom_vista": "Flors",
+          "url": null,
+          "estil": "botanic_fons_neutre",
+          "principal": false,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        },
+        {
+          "id": "populus-nigra-fulles",
+          "vista": "fulles",
+          "nom_vista": "Fulles",
+          "url": null,
+          "estil": "botanic_fons_neutre",
+          "principal": false,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        }
+      ],
+      "estat_fitxa": "completada_des_de_taula",
+      "font": {
+        "document": "Catàleg de plantes autòctones del viver forestal de les Illes Balears",
+        "pagina_impresa": null,
+        "url": "https://xarxaforestal.org/wp-content/uploads/2023/06/Cataleg-Menut_version-web.pdf"
+      },
+      "port": "arbre",
+      "color_floracio": "verd"
+    },
+    {
+      "id": "prunus-spinosa",
+      "nom_comu": "Aranyoner",
+      "nom_cientific": "Prunus spinosa",
+      "sinonims": [],
+      "grup": "Ribera i torrents",
+      "illes": [
+        "Mallorca",
+        "Menorca"
+      ],
+      "endemisme": false,
+      "mida_adulta_m": {
+        "alcada": [
+          3,
+          5
+        ],
+        "amplada": [
+          1,
+          4
+        ]
+      },
+      "floracio": [
+        "primavera",
+        "hivern"
+      ],
+      "fructificacio": [
+        "tardor",
+        "hivern"
+      ],
+      "tipus_fruit": "carnós",
+      "necessitats_hidriques": "baixes",
+      "insolacio": "directe",
+      "tolerancia_salinitat": null,
+      "pol_linitzadors": {
+        "nectar": "mitja",
+        "pol·len": "mitja",
+        "productora_melats": false
+      },
+      "atreu_papallones": true,
+      "atreu_ocells": true,
+      "resistent_herbivors": false,
+      "apte_bardissa": true,
+      "espinos": true,
+      "aromatic": false,
+      "parts_comestibles": [
+        "fruit"
+      ],
+      "toxicitat": false,
+      "infusio_condiment": false,
+      "descripcio": null,
+      "habitat": "Ribera i torrents",
+      "usos_jardineria": [],
+      "imatges": [
+        {
+          "id": "prunus-spinosa-planta_sencera",
+          "vista": "planta_sencera",
+          "nom_vista": "Planta sencera",
+          "url": null,
+          "estil": "natura",
+          "principal": true,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        },
+        {
+          "id": "prunus-spinosa-flors",
+          "vista": "flors",
+          "nom_vista": "Flors",
+          "url": null,
+          "estil": "botanic_fons_neutre",
+          "principal": false,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        },
+        {
+          "id": "prunus-spinosa-fulles",
+          "vista": "fulles",
+          "nom_vista": "Fulles",
+          "url": null,
+          "estil": "botanic_fons_neutre",
+          "principal": false,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        }
+      ],
+      "estat_fitxa": "completada_des_de_taula",
+      "font": {
+        "document": "Catàleg de plantes autòctones del viver forestal de les Illes Balears",
+        "pagina_impresa": null,
+        "url": "https://xarxaforestal.org/wp-content/uploads/2023/06/Cataleg-Menut_version-web.pdf"
+      },
+      "port": "arbust",
+      "color_floracio": "blanc"
+    },
+    {
+      "id": "quercus-cerrioides",
+      "nom_comu": "Roure",
+      "nom_cientific": "Quercus cerrioides",
+      "sinonims": [],
+      "grup": "Ribera i torrents",
+      "illes": [
+        "Mallorca"
+      ],
+      "endemisme": false,
+      "mida_adulta_m": {
+        "alcada": [
+          20,
+          20
+        ],
+        "amplada": [
+          4,
+          15
+        ]
+      },
+      "floracio": [
+        "primavera"
+      ],
+      "fructificacio": [
+        "tardor",
+        "hivern"
+      ],
+      "tipus_fruit": "sec",
+      "necessitats_hidriques": "elevades",
+      "insolacio": "directe",
+      "tolerancia_salinitat": null,
+      "pol_linitzadors": {
+        "nectar": null,
+        "pol·len": "mitja",
+        "productora_melats": true
+      },
+      "atreu_papallones": false,
+      "atreu_ocells": true,
+      "resistent_herbivors": false,
+      "apte_bardissa": true,
+      "espinos": false,
+      "aromatic": false,
+      "parts_comestibles": [],
+      "toxicitat": false,
+      "infusio_condiment": false,
+      "descripcio": null,
+      "habitat": "Ribera i torrents",
+      "usos_jardineria": [],
+      "imatges": [
+        {
+          "id": "quercus-cerrioides-planta_sencera",
+          "vista": "planta_sencera",
+          "nom_vista": "Planta sencera",
+          "url": null,
+          "estil": "natura",
+          "principal": true,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        },
+        {
+          "id": "quercus-cerrioides-flors",
+          "vista": "flors",
+          "nom_vista": "Flors",
+          "url": null,
+          "estil": "botanic_fons_neutre",
+          "principal": false,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        },
+        {
+          "id": "quercus-cerrioides-fulles",
+          "vista": "fulles",
+          "nom_vista": "Fulles",
+          "url": null,
+          "estil": "botanic_fons_neutre",
+          "principal": false,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        }
+      ],
+      "estat_fitxa": "completada_des_de_taula",
+      "font": {
+        "document": "Catàleg de plantes autòctones del viver forestal de les Illes Balears",
+        "pagina_impresa": null,
+        "url": "https://xarxaforestal.org/wp-content/uploads/2023/06/Cataleg-Menut_version-web.pdf"
+      },
+      "port": "arbre",
+      "color_floracio": "groc"
+    },
+    {
+      "id": "rubus-ulmifolius",
+      "nom_comu": "Abatzer",
+      "nom_cientific": "Rubus ulmifolius",
+      "sinonims": [],
+      "grup": "Ribera i torrents",
+      "illes": [
+        "Mallorca",
+        "Menorca",
+        "Eivissa",
+        "Cabrera"
+      ],
+      "endemisme": false,
+      "mida_adulta_m": {
+        "alcada": [
+          1,
+          3
+        ],
+        "amplada": [
+          3,
+          6
+        ]
+      },
+      "floracio": [
+        "estiu"
+      ],
+      "fructificacio": [],
+      "tipus_fruit": "carnós",
+      "necessitats_hidriques": "mitjanes",
+      "insolacio": "directe",
+      "tolerancia_salinitat": null,
+      "pol_linitzadors": {
+        "nectar": "mitja",
+        "pol·len": "mitja",
+        "productora_melats": false
+      },
+      "atreu_papallones": false,
+      "atreu_ocells": true,
+      "resistent_herbivors": false,
+      "apte_bardissa": true,
+      "espinos": true,
+      "aromatic": false,
+      "parts_comestibles": [
+        "fruit"
+      ],
+      "toxicitat": false,
+      "infusio_condiment": false,
+      "descripcio": null,
+      "habitat": "Ribera i torrents",
+      "usos_jardineria": [],
+      "imatges": [
+        {
+          "id": "rubus-ulmifolius-planta_sencera",
+          "vista": "planta_sencera",
+          "nom_vista": "Planta sencera",
+          "url": null,
+          "estil": "natura",
+          "principal": true,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        },
+        {
+          "id": "rubus-ulmifolius-flors",
+          "vista": "flors",
+          "nom_vista": "Flors",
+          "url": null,
+          "estil": "botanic_fons_neutre",
+          "principal": false,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        },
+        {
+          "id": "rubus-ulmifolius-fulles",
+          "vista": "fulles",
+          "nom_vista": "Fulles",
+          "url": null,
+          "estil": "botanic_fons_neutre",
+          "principal": false,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        }
+      ],
+      "estat_fitxa": "completada_des_de_taula",
+      "font": {
+        "document": "Catàleg de plantes autòctones del viver forestal de les Illes Balears",
+        "pagina_impresa": null,
+        "url": "https://xarxaforestal.org/wp-content/uploads/2023/06/Cataleg-Menut_version-web.pdf"
+      },
+      "port": "arbust",
+      "color_floracio": "rosa"
+    },
+    {
+      "id": "ulmus-minor",
+      "nom_comu": "Om",
+      "nom_cientific": "Ulmus minor",
+      "sinonims": [],
+      "grup": "Ribera i torrents",
+      "illes": [
+        "Mallorca",
+        "Menorca",
+        "Eivissa"
+      ],
+      "endemisme": false,
+      "mida_adulta_m": {
+        "alcada": [
+          20,
+          30
+        ],
+        "amplada": [
+          8,
+          10
+        ]
+      },
+      "floracio": [
+        "primavera"
+      ],
+      "fructificacio": [
+        "primavera",
+        "estiu"
+      ],
+      "tipus_fruit": "sec",
+      "necessitats_hidriques": "elevades",
+      "insolacio": "directe",
+      "tolerancia_salinitat": null,
+      "pol_linitzadors": {
+        "nectar": "mitja",
+        "pol·len": "mitja",
+        "productora_melats": true
+      },
+      "atreu_papallones": false,
+      "atreu_ocells": false,
+      "resistent_herbivors": true,
+      "apte_bardissa": false,
+      "espinos": false,
+      "aromatic": false,
+      "parts_comestibles": [],
+      "toxicitat": false,
+      "infusio_condiment": false,
+      "descripcio": null,
+      "habitat": "Ribera i torrents",
+      "usos_jardineria": [],
+      "imatges": [
+        {
+          "id": "ulmus-minor-planta_sencera",
+          "vista": "planta_sencera",
+          "nom_vista": "Planta sencera",
+          "url": null,
+          "estil": "natura",
+          "principal": true,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        },
+        {
+          "id": "ulmus-minor-flors",
+          "vista": "flors",
+          "nom_vista": "Flors",
+          "url": null,
+          "estil": "botanic_fons_neutre",
+          "principal": false,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        },
+        {
+          "id": "ulmus-minor-fulles",
+          "vista": "fulles",
+          "nom_vista": "Fulles",
+          "url": null,
+          "estil": "botanic_fons_neutre",
+          "principal": false,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        }
+      ],
+      "estat_fitxa": "completada_des_de_taula",
+      "font": {
+        "document": "Catàleg de plantes autòctones del viver forestal de les Illes Balears",
+        "pagina_impresa": null,
+        "url": "https://xarxaforestal.org/wp-content/uploads/2023/06/Cataleg-Menut_version-web.pdf"
+      },
+      "port": "arbre",
+      "color_floracio": "verd"
+    },
+    {
+      "id": "vinca-difformis",
+      "nom_comu": "Proenga",
+      "nom_cientific": "Vinca difformis",
+      "sinonims": [],
+      "grup": "Ribera i torrents",
+      "illes": [
+        "Mallorca",
+        "Menorca",
+        "Eivissa"
+      ],
+      "endemisme": false,
+      "mida_adulta_m": {
+        "alcada": [
+          0.2,
+          0.4
+        ],
+        "amplada": [
+          1,
+          2
+        ]
+      },
+      "floracio": [
+        "primavera"
+      ],
+      "fructificacio": [
+        "primavera",
+        "estiu"
+      ],
+      "tipus_fruit": "sec",
+      "necessitats_hidriques": "elevades",
+      "insolacio": "directe",
+      "tolerancia_salinitat": null,
+      "pol_linitzadors": {
+        "nectar": "mitja",
+        "pol·len": null,
+        "productora_melats": false
+      },
+      "atreu_papallones": false,
+      "atreu_ocells": false,
+      "resistent_herbivors": true,
+      "apte_bardissa": false,
+      "espinos": false,
+      "aromatic": false,
+      "parts_comestibles": [],
+      "toxicitat": false,
+      "infusio_condiment": false,
+      "descripcio": null,
+      "habitat": "Ribera i torrents",
+      "usos_jardineria": [],
+      "imatges": [
+        {
+          "id": "vinca-difformis-planta_sencera",
+          "vista": "planta_sencera",
+          "nom_vista": "Planta sencera",
+          "url": null,
+          "estil": "natura",
+          "principal": true,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        },
+        {
+          "id": "vinca-difformis-flors",
+          "vista": "flors",
+          "nom_vista": "Flors",
+          "url": null,
+          "estil": "botanic_fons_neutre",
+          "principal": false,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        },
+        {
+          "id": "vinca-difformis-fulles",
+          "vista": "fulles",
+          "nom_vista": "Fulles",
+          "url": null,
+          "estil": "botanic_fons_neutre",
+          "principal": false,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        }
+      ],
+      "estat_fitxa": "completada_des_de_taula",
+      "font": {
+        "document": "Catàleg de plantes autòctones del viver forestal de les Illes Balears",
+        "pagina_impresa": null,
+        "url": "https://xarxaforestal.org/wp-content/uploads/2023/06/Cataleg-Menut_version-web.pdf"
+      },
+      "port": "mata_herbacia_o_llenyosa",
+      "color_floracio": "lila"
+    },
+    {
+      "id": "vitex-agnus-castus",
+      "nom_comu": "Aloc",
+      "nom_cientific": "Vitex agnus-castus",
+      "sinonims": [],
+      "grup": "Ribera i torrents",
+      "illes": [
+        "Mallorca",
+        "Menorca",
+        "Eivissa"
+      ],
+      "endemisme": false,
+      "mida_adulta_m": {
+        "alcada": [
+          1.5,
+          5
+        ],
+        "amplada": [
+          2,
+          5
+        ]
+      },
+      "floracio": [
+        "estiu"
+      ],
+      "fructificacio": [
+        "tardor"
+      ],
+      "tipus_fruit": "sec",
+      "necessitats_hidriques": "mitjanes",
+      "insolacio": "directe",
+      "tolerancia_salinitat": "molt_tolerant",
+      "pol_linitzadors": {
+        "nectar": "baix",
+        "pol·len": "baix",
+        "productora_melats": false
+      },
+      "atreu_papallones": true,
+      "atreu_ocells": false,
+      "resistent_herbivors": true,
+      "apte_bardissa": true,
+      "espinos": false,
+      "aromatic": true,
+      "parts_comestibles": [],
+      "toxicitat": false,
+      "infusio_condiment": true,
+      "descripcio": null,
+      "habitat": "Ribera i torrents",
+      "usos_jardineria": [],
+      "imatges": [
+        {
+          "id": "vitex-agnus-castus-planta_sencera",
+          "vista": "planta_sencera",
+          "nom_vista": "Planta sencera",
+          "url": null,
+          "estil": "natura",
+          "principal": true,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        },
+        {
+          "id": "vitex-agnus-castus-flors",
+          "vista": "flors",
+          "nom_vista": "Flors",
+          "url": null,
+          "estil": "botanic_fons_neutre",
+          "principal": false,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        },
+        {
+          "id": "vitex-agnus-castus-fulles",
+          "vista": "fulles",
+          "nom_vista": "Fulles",
+          "url": null,
+          "estil": "botanic_fons_neutre",
+          "principal": false,
+          "credit": null,
+          "llicencia": null,
+          "text_alternatiu": null,
+          "estat": "pendent"
+        }
+      ],
+      "estat_fitxa": "completada_des_de_taula",
+      "font": {
+        "document": "Catàleg de plantes autòctones del viver forestal de les Illes Balears",
+        "pagina_impresa": null,
+        "url": "https://xarxaforestal.org/wp-content/uploads/2023/06/Cataleg-Menut_version-web.pdf"
+      },
+      "port": "arbust",
+      "color_floracio": "lila"
+    }
+  ],
+  "configuracio_imatges": {
+    "vistes_obligatories": [
+      "planta_sencera",
+      "flors",
+      "fulles"
+    ],
+    "estils_admesos": [
+      "natura",
+      "botanic_fons_neutre"
+    ],
+    "estil_per_defecte": {
+      "planta_sencera": "natura",
+      "flors": "botanic_fons_neutre",
+      "fulles": "botanic_fons_neutre"
+    },
+    "permetre_imatges_alternatives_per_vista": true,
+    "nota": "Les URL null indiquen que encara no s'ha incorporat cap fotografia."
+  }
+}

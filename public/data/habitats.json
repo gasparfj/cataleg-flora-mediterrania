@@ -1,0 +1,53 @@
+
+{
+  "habitats": [
+    {
+      "id": "pinar",
+      "nom": "Pinar",
+      "fitxer": "/plantes/pinar.json",
+      "imatge_portada": null
+    },
+    {
+      "id": "alzinar",
+      "nom": "Alzinar",
+      "fitxer": "/plantes/alzinar.json",
+      "imatge_portada": null
+    },
+    {
+      "id": "ullastrar",
+      "nom": "Ullastrar",
+      "fitxer": "/plantes/ullastrar.json",
+      "imatge_portada": null
+    },
+    {
+      "id": "ribera-i-torrents",
+      "nom": "Ribera i torrents",
+      "fitxer": "/plantes/ribera-i-torrents.json",
+      "imatge_portada": null
+    },
+    {
+      "id": "dunes-i-savinar",
+      "nom": "Dunes i savinar",
+      "fitxer": "/plantes/dunes-i-savinar.json",
+      "imatge_portada": null
+    },
+    {
+      "id": "salobrars-i-costa",
+      "nom": "Salobrars i costa",
+      "fitxer": "/plantes/salobrars-i-costa.json",
+      "imatge_portada": null
+    },
+    {
+      "id": "penyals",
+      "nom": "Penyals",
+      "fitxer": "/plantes/penyals.json",
+      "imatge_portada": null
+    },
+    {
+      "id": "muntanya",
+      "nom": "Muntanya",
+      "fitxer": "/plantes/muntanya.json",
+      "imatge_portada": null
+    }
+  ]
+}
