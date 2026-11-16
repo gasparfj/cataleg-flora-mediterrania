@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Catàleg de flora mediterrània de les Illes Balears
 
 Aplicació web interactiva per explorar plantes autòctones de les Illes Balears segons l'hàbitat, consultar-ne les característiques botàniques i ecològiques i visualitzar-ne fotografies.
