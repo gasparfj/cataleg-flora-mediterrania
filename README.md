@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Catàleg de flora mediterrània de les Illes Balears
 
 Aplicació web interactiva per explorar plantes autòctones de les Illes Balears segons l'hàbitat, consultar-ne les característiques botàniques i ecològiques i visualitzar-ne fotografies.
@@ -125,3 +126,18 @@ El catàleg és un projecte de consulta i divulgació en desenvolupament. Les da
 - **Font de les dades botàniques:** CEFOR Menut, _Catàleg de plantes autòctones del viver forestal de les Illes Balears_.
 - **Aplicació web i estructuració de dades:** projecte independent «Catàleg de flora mediterrània de les Illes Balears».
 - **Fotografies:** autoria i condicions d'ús indicades a cada fitxa, quan s'incorporin.
+=======
+
+{
+  "fonts": [
+    {
+      "id": "cefor-menut",
+      "titol": "Catàleg de plantes autòctones del viver forestal de les Illes Balears",
+      "autor": "CEFOR Menut",
+      "tipus": "cataleg",
+      "url": "https://share.google/n5QRI3KQwYWcIXkZl",
+      "descripcio": "Font principal de les dades botàniques del catàleg digital, incloent-hi la distribució, les dimensions, la floració, la fructificació i les característiques ecològiques de les espècies."
+    }
+  ]
+}
+>>>>>>> c1bcbd8 (Afegir fonts.json (referencies))
